@@ -1,0 +1,91 @@
+//@version=5
+strategy("Yatay Piyasa - Range Reversion", overlay=true, initial_capital=10000,
+     default_qty_type=strategy.fixed, default_qty_value=1,
+     commission_type=strategy.commission.percent, commission_value=0.05,
+     slippage=2, pyramiding=0, calc_on_every_tick=false)
+
+// ───────── Girdiler ─────────
+grpF = "Yatay Piyasa Filtresi"
+adxLen     = input.int(14, "ADX Uzunluk", group=grpF)
+adxMax     = input.float(22.0, "ADX Maks (yatay sayılması için)", group=grpF)
+adxKill    = input.float(30.0, "ADX Kill (pozisyonu kapat)", group=grpF)
+rangeLen   = input.int(40, "Aralık Penceresi (mum)", group=grpF)
+minRangeAtr= input.float(3.0, "Min Aralık Yüksekliği (xATR)", group=grpF, tooltip="Aralık, maliyetleri çıkarınca kâr bırakacak kadar geniş olmalı")
+
+grpE = "Giriş"
+bbLen   = input.int(20, "Bollinger Uzunluk", group=grpE)
+bbMult  = input.float(2.0, "Bollinger Çarpan", group=grpE)
+rsiLen  = input.int(14, "RSI Uzunluk", group=grpE)
+rsiOS   = input.float(35.0, "RSI Aşırı Satım", group=grpE)
+rsiOB   = input.float(65.0, "RSI Aşırı Alım", group=grpE)
+zonePct = input.float(25.0, "Giriş Bölgesi (% aralık, uçlardan)", group=grpE) / 100
+allowLong  = input.bool(true, "Long açık", group=grpE)
+allowShort = input.bool(true, "Short açık", group=grpE)
+
+grpR = "Risk"
+atrLen  = input.int(14, "ATR Uzunluk", group=grpR)
+slAtr   = input.float(1.0, "Stop: Aralık dışı (xATR)", group=grpR)
+riskPct = input.float(1.0, "İşlem başı risk (% sermaye)", group=grpR)
+tp2Pct  = input.float(15.0, "TP2: karşı banda kalan (% aralık)", group=grpR) / 100
+
+// ───────── Göstergeler ─────────
+[diP, diM, adx] = ta.dmi(adxLen, adxLen)
+[basis, upper, lower] = ta.bb(close, bbLen, bbMult)
+rsi  = ta.rsi(close, rsiLen)
+atr  = ta.atr(atrLen)
+hi   = ta.highest(high, rangeLen)
+lo   = ta.lowest(low, rangeLen)
+rng  = hi - lo
+
+isRange = adx < adxMax and rng >= minRangeAtr * atr
+
+// ───────── Sinyaller ─────────
+nearLow  = close <= lo + rng * zonePct
+nearHigh = close >= hi - rng * zonePct
+
+longSig  = allowLong  and isRange and nearLow  and rsi[1] < rsiOS and rsi > rsi[1] and close > open and close > close[1]
+shortSig = allowShort and isRange and nearHigh and rsi[1] > rsiOB and rsi < rsi[1] and close < open and close < close[1]
+
+// ───────── Pozisyon boyutu (riske göre) ─────────
+stopDist = slAtr * atr
+calcQty() =>
+    q = (strategy.equity * riskPct / 100) / math.max(stopDist, syminfo.mintick)
+    math.max(q, 0.0)
+
+var float longStop  = na
+var float shortStop = na
+
+if longSig and strategy.position_size == 0
+    longStop := lo - stopDist
+    strategy.entry("Long", strategy.long, qty=calcQty())
+
+if shortSig and strategy.position_size == 0
+    shortStop := hi + stopDist
+    strategy.entry("Short", strategy.short, qty=calcQty())
+
+// ───────── Çıkışlar ─────────
+// TP1: orta bant (%50), TP2: karşı banda yakın (%50), stop: aralık dışı
+if strategy.position_size > 0
+    strategy.exit("L-TP1", "Long", qty_percent=50, limit=basis, stop=longStop)
+    strategy.exit("L-TP2", "Long", limit=hi - rng * tp2Pct, stop=longStop)
+
+if strategy.position_size < 0
+    strategy.exit("S-TP1", "Short", qty_percent=50, limit=basis, stop=shortStop)
+    strategy.exit("S-TP2", "Short", limit=lo + rng * tp2Pct, stop=shortStop)
+
+// Trend başladıysa (ADX yükseldi) strateji askıya: pozisyonu kapat
+if adx > adxKill and strategy.position_size != 0
+    strategy.close_all(comment="ADX Kill")
+
+// ───────── Görselleştirme ─────────
+bgcolor(isRange ? color.new(color.gray, 90) : na, title="Yatay Rejim")
+plot(basis, "Orta Bant", color=color.orange)
+plot(upper, "Üst BB", color=color.new(color.red, 40))
+plot(lower, "Alt BB", color=color.new(color.green, 40))
+plot(hi, "Direnç", color=color.red, linewidth=2, style=plot.style_stepline)
+plot(lo, "Destek", color=color.green, linewidth=2, style=plot.style_stepline)
+plotshape(longSig  and strategy.position_size == 0, "Long",  shape.triangleup,   location.belowbar, color.green, size=size.small)
+plotshape(shortSig and strategy.position_size == 0, "Short", shape.triangledown, location.abovebar, color.red,   size=size.small)
+
+alertcondition(longSig,  "Long Sinyali",  "Yatay piyasa: LONG sinyali")
+alertcondition(shortSig, "Short Sinyali", "Yatay piyasa: SHORT sinyali")
