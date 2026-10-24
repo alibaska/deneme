@@ -7,6 +7,7 @@ allowLong = input.bool(true,  "Long işlemlere izin ver")
 allowShort= input.bool(true,  "Short işlemlere izin ver")
 slPct     = input.float(3.0, "Zarar Durdur (SL) %", minval=0.1, step=0.1)
 tpPct     = input.float(6.0, "Kâr Al (TP) %",       minval=0.1, step=0.1)
+closeConf = input.bool(true, "Girişte bar kapanışı teyidi (fitil girişlerini eler)")
 
 // Önceki N barın en yüksek / en düşük seviyesi (mevcut bar hariç)
 hhv = ta.highest(high, len)[1]
@@ -15,12 +16,20 @@ llv = ta.lowest(low, len)[1]
 plot(hhv, "HHV", color.green, 1, plot.style_stepline)
 plot(llv, "LLV", color.red,   1, plot.style_stepline)
 
-// Pozisyon yokken (flat): stop emirle giriş. Önceki 10 barın zirvesi kırılırsa AL, dibi kırılırsa SAT
+// Pozisyon yokken (flat) giriş
+// closeConf açıksa: bar HHV üstünde / LLV altında KAPANIRSA bir sonraki barın açılışında gir
+// closeConf kapalıysa: stop emirle bar içi giriş (fitil değince)
 if strategy.position_size == 0
-    if allowLong
-        strategy.entry("AL",  strategy.long,  qty=1, stop=hhv)
-    if allowShort
-        strategy.entry("SAT", strategy.short, qty=1, stop=llv)
+    if closeConf
+        if allowLong and close > hhv
+            strategy.entry("AL",  strategy.long,  qty=1)
+        if allowShort and close < llv
+            strategy.entry("SAT", strategy.short, qty=1)
+    else
+        if allowLong
+            strategy.entry("AL",  strategy.long,  qty=1, stop=hhv)
+        if allowShort
+            strategy.entry("SAT", strategy.short, qty=1, stop=llv)
 else
     // Pozisyon açıkken bekleyen giriş emirlerini iptal et (ters dönüş yok, 1 kontrat)
     strategy.cancel("AL")
