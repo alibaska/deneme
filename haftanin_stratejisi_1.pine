@@ -1,0 +1,26 @@
+//@version=6
+strategy("Haftanın Stratejisi #1 - HHV/LLV Kırılım", overlay=true, default_qty_type=strategy.percent_of_equity, default_qty_value=100, commission_type=strategy.commission.percent, commission_value=0.05, process_orders_on_close=false)
+
+// Girdiler
+len       = input.int(10, "HHV/LLV Periyodu", minval=1)
+allowLong = input.bool(true,  "Long işlemlere izin ver")
+allowShort= input.bool(true,  "Short işlemlere izin ver")
+
+// Önceki N barın en yüksek / en düşük seviyesi (mevcut bar hariç)
+hhv = ta.highest(high, len)[1]
+llv = ta.lowest(low, len)[1]
+
+plot(hhv, "HHV", color.green, 1, plot.style_stepline)
+plot(llv, "LLV", color.red,   1, plot.style_stepline)
+
+// Stop emirle giriş: önceki 10 barın zirvesi kırılırsa AL, dibi kırılırsa SAT (stop-and-reverse)
+if allowLong
+    strategy.entry("AL",  strategy.long,  stop=hhv)
+if allowShort
+    strategy.entry("SAT", strategy.short, stop=llv)
+
+// Sadece tek yönlü çalışılıyorsa karşı sinyalde pozisyonu kapat
+if not allowShort
+    strategy.close("AL", when=low < llv, comment="LLV kırıldı")
+if not allowLong
+    strategy.close("SAT", when=high > hhv, comment="HHV kırıldı")
