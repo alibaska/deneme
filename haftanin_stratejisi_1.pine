@@ -1,5 +1,5 @@
 //@version=6
-strategy("Haftanın Stratejisi #1 - HHV/LLV Kırılım", overlay=true, default_qty_type=strategy.percent_of_equity, default_qty_value=100, commission_type=strategy.commission.percent, commission_value=0.05, process_orders_on_close=false)
+strategy("Haftanın Stratejisi #1 - HHV/LLV Kırılım", overlay=true, default_qty_type=strategy.fixed, default_qty_value=1, commission_type=strategy.commission.percent, commission_value=0.05, process_orders_on_close=false)
 
 // Girdiler
 len       = input.int(10, "HHV/LLV Periyodu", minval=1)
@@ -15,22 +15,21 @@ llv = ta.lowest(low, len)[1]
 plot(hhv, "HHV", color.green, 1, plot.style_stepline)
 plot(llv, "LLV", color.red,   1, plot.style_stepline)
 
-// Stop emirle giriş: önceki 10 barın zirvesi kırılırsa AL, dibi kırılırsa SAT (stop-and-reverse)
-if allowLong
-    strategy.entry("AL",  strategy.long,  stop=hhv)
-if allowShort
-    strategy.entry("SAT", strategy.short, stop=llv)
+// Pozisyon yokken (flat): stop emirle giriş. Önceki 10 barın zirvesi kırılırsa AL, dibi kırılırsa SAT
+if strategy.position_size == 0
+    if allowLong
+        strategy.entry("AL",  strategy.long,  qty=1, stop=hhv)
+    if allowShort
+        strategy.entry("SAT", strategy.short, qty=1, stop=llv)
+else
+    // Pozisyon açıkken bekleyen giriş emirlerini iptal et (ters dönüş yok, 1 kontrat)
+    strategy.cancel("AL")
+    strategy.cancel("SAT")
 
-// Zarar durdur / kâr al (giriş fiyatına göre yüzde)
+// Çıkış: SL/TP veya karşı seviye kırılımı (hangisi önce gelirse), sonra flat
 if strategy.position_size > 0
     avg = strategy.position_avg_price
-    strategy.exit("AL SL/TP", "AL", stop=avg * (1 - slPct / 100), limit=avg * (1 + tpPct / 100))
+    strategy.exit("AL Çıkış", "AL", stop=math.max(avg * (1 - slPct / 100), llv), limit=avg * (1 + tpPct / 100))
 if strategy.position_size < 0
     avg = strategy.position_avg_price
-    strategy.exit("SAT SL/TP", "SAT", stop=avg * (1 + slPct / 100), limit=avg * (1 - tpPct / 100))
-
-// Sadece tek yönlü çalışılıyorsa karşı sinyalde pozisyonu kapat
-if not allowShort and low < llv
-    strategy.close("AL", comment="LLV kırıldı")
-if not allowLong and high > hhv
-    strategy.close("SAT", comment="HHV kırıldı")
+    strategy.exit("SAT Çıkış", "SAT", stop=math.min(avg * (1 + slPct / 100), hhv), limit=avg * (1 - tpPct / 100))
