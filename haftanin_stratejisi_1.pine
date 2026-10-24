@@ -20,7 +20,7 @@ if allowShort
     strategy.entry("SAT", strategy.short, stop=llv)
 
 // Sadece tek yönlü çalışılıyorsa karşı sinyalde pozisyonu kapat
-if not allowShort
-    strategy.close("AL", when=low < llv, comment="LLV kırıldı")
-if not allowLong
-    strategy.close("SAT", when=high > hhv, comment="HHV kırıldı")
+if not allowShort and low < llv
+    strategy.close("AL", comment="LLV kırıldı")
+if not allowLong and high > hhv
+    strategy.close("SAT", comment="HHV kırıldı")
