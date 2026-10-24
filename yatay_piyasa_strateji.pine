@@ -7,18 +7,18 @@ strategy("Yatay Piyasa - Range Reversion", overlay=true, initial_capital=10000,
 // ───────── Girdiler ─────────
 grpF = "Yatay Piyasa Filtresi"
 adxLen     = input.int(14, "ADX Uzunluk", group=grpF)
-adxMax     = input.float(22.0, "ADX Maks (yatay sayılması için)", group=grpF)
-adxKill    = input.float(30.0, "ADX Kill (pozisyonu kapat)", group=grpF)
-rangeLen   = input.int(40, "Aralık Penceresi (mum)", group=grpF)
-minRangeAtr= input.float(3.0, "Min Aralık Yüksekliği (xATR)", group=grpF, tooltip="Aralık, maliyetleri çıkarınca kâr bırakacak kadar geniş olmalı")
+adxMax     = input.float(25.0, "ADX Maks (yatay sayılması için)", group=grpF)
+adxKill    = input.float(35.0, "ADX Kill (pozisyonu kapat)", group=grpF)
+rangeLen   = input.int(30, "Aralık Penceresi (mum)", group=grpF)
+minRangeAtr= input.float(2.0, "Min Aralık Yüksekliği (xATR)", group=grpF, tooltip="Aralık, maliyetleri çıkarınca kâr bırakacak kadar geniş olmalı")
 
 grpE = "Giriş"
 bbLen   = input.int(20, "Bollinger Uzunluk", group=grpE)
 bbMult  = input.float(2.0, "Bollinger Çarpan", group=grpE)
 rsiLen  = input.int(14, "RSI Uzunluk", group=grpE)
-rsiOS   = input.float(35.0, "RSI Aşırı Satım", group=grpE)
-rsiOB   = input.float(65.0, "RSI Aşırı Alım", group=grpE)
-zonePct = input.float(25.0, "Giriş Bölgesi (% aralık, uçlardan)", group=grpE) / 100
+rsiOS   = input.float(40.0, "RSI Aşırı Satım", group=grpE)
+rsiOB   = input.float(60.0, "RSI Aşırı Alım", group=grpE)
+zonePct = input.float(30.0, "Giriş Bölgesi (% aralık, uçlardan)", group=grpE) / 100
 allowLong  = input.bool(true, "Long açık", group=grpE)
 allowShort = input.bool(true, "Short açık", group=grpE)
 
@@ -26,6 +26,7 @@ grpR = "Risk"
 atrLen  = input.int(14, "ATR Uzunluk", group=grpR)
 slAtr   = input.float(1.0, "Stop: Aralık dışı (xATR)", group=grpR)
 riskPct = input.float(1.0, "İşlem başı risk (% sermaye)", group=grpR)
+maxLev  = input.float(1.0, "Maks pozisyon (x sermaye, kaldıraç sınırı)", group=grpR, minval=0.1)
 tp2Pct  = input.float(15.0, "TP2: karşı banda kalan (% aralık)", group=grpR) / 100
 
 // ───────── Göstergeler ─────────
@@ -43,14 +44,15 @@ isRange = adx < adxMax and rng >= minRangeAtr * atr
 nearLow  = close <= lo + rng * zonePct
 nearHigh = close >= hi - rng * zonePct
 
-longSig  = allowLong  and isRange and nearLow  and rsi[1] < rsiOS and rsi > rsi[1] and close > open and close > close[1]
-shortSig = allowShort and isRange and nearHigh and rsi[1] > rsiOB and rsi < rsi[1] and close < open and close < close[1]
+longSig  = allowLong  and isRange and nearLow  and (rsi < rsiOS or low <= lower) and close > open
+shortSig = allowShort and isRange and nearHigh and (rsi > rsiOB or high >= upper) and close < open
 
 // ───────── Pozisyon boyutu (riske göre) ─────────
 stopDist = slAtr * atr
 calcQty() =>
     q = (strategy.equity * riskPct / 100) / math.max(stopDist, syminfo.mintick)
-    math.max(q, 0.0)
+    maxQ = strategy.equity * maxLev / close
+    math.max(math.min(q, maxQ), 0.0)
 
 var float longStop  = na
 var float shortStop = na
