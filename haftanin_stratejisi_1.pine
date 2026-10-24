@@ -1,5 +1,5 @@
 //@version=6
-strategy("Haftanın Stratejisi #1 - HHV/LLV Kırılım", overlay=true, default_qty_type=strategy.fixed, default_qty_value=1, commission_type=strategy.commission.percent, commission_value=0.05, process_orders_on_close=false, margin_long=0, margin_short=0)
+strategy("Haftanın Stratejisi #1 - HHV/LLV Kırılım", overlay=true, default_qty_type=strategy.fixed, default_qty_value=1, commission_type=strategy.commission.percent, commission_value=0.02, process_orders_on_close=false, margin_long=0, margin_short=0)
 
 // Girdiler
 len       = input.int(10, "HHV/LLV Periyodu", minval=1)
