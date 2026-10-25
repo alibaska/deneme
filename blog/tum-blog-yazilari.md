@@ -1,18 +1,55 @@
-# Comfortinos Blog Yazıları (1-38)
+# Comfortinos blog yazıları (1-38)
 
----
+Not (Ali için): Sağlık iddiası yok. Genel bilgiyle yazıldı. `[Ali kontrol]` işaretli yerleri kendi üretici tecrübene göre düzelt. İade, değişim, kargo ve fiyat gibi site bilgilerini kesinleşince ekle. Her yazının sonundaki link ikas'ta ilgili kategoriye verilecek.
 
-# Comfortinos Blog Yazıları (8 taslak)
+## İçindekiler
 
-Not (Ali için): Sağlık iddiası yok. Bunlar genel bilgilerdir. Üretici olarak bildiğin yerleri (deri bakımı, topuk, kalıp, numara) kendi tecrübene göre düzelt. İşaretli `[Ali kontrol]` yerlere özellikle bak. Her yazının sonundaki link ikas'ta ilgili kategoriye verilecek.
+1. Ayakkabı numaranı evde nasıl ölçersin?
+2. Loafer nasıl kombinlenir? Ofisten hafta sonuna 5 öneri
+3. Deri ayakkabı bakımı: temizleme ve saklama rehberi
+4. Babet altına ne giyilir?
+5. Hakiki deri ile suni deri arasındaki farklar
+6. Günlük kullanım için topuk yüksekliği nasıl seçilir?
+7. Kışın bot seçerken nelere bakmalı?
+8. Beyaz sneaker nasıl temiz tutulur?
+9. Ayakkabı nasıl seçilir? Rahat ve doğru ayakkabı için 7 ipucu
+10. Sandalet seçerken nelere dikkat etmeli?
+11. Sneaker mı, loafer mı? Günlük kullanım için hangisi?
+12. Gün boyu ayakta kalanlar için ayakkabı seçimi
+13. Yazlık ve kışlık ayakkabı arasındaki farklar
+14. İlk loafer'ını alırken: renk, kalıp, taban
+15. Ayakkabı nem ve kokudan nasıl korunur?
+16. Hediye için ayakkabı alırken numara nasıl seçilir?
+17. Siyah, bej, kahve: ilk ayakkabı rengi nasıl seçilir?
+18. Online ayakkabı alırken nelere dikkat etmeli?
+19. Sneaker ile 5 gündelik kombin
+20. Sandalet nasıl kombinlenir?
+21. Bot nasıl kombinlenir? Elbiseden jeana
+22. Loafer ile çorap giyilir mi? Çorap seçimi
+23. Ayakkabı ile çanta uyumu
+24. Valiz hazırlarken: seyahat için 3 çift ayakkabı
+25. Düğün ve davet için rahat ayakkabı seçimi
+26. Ara sezonda hangi ayakkabı giyilir?
+27. Ayakkabı dolabı düzeni ve saklama
+28. Süet ayakkabı bakımı ve lekeden korunma
+29. Sneaker bağcığını değiştirerek ayakkabıyı yenilemek
+30. Yağmurlu günde hangi ayakkabı giyilir?
+31. Boyu uzun gösteren ayakkabı seçimi
+32. Pantolon paça boyu ve ayakkabı uyumu
+33. Ofis için ayakkabı: ne giyilir, ne giyilmez?
+34. Yaz tatili için ayakkabı listesi
+35. Az ayakkabıyla gardırop: temel 5 çift
+36. Sezon başında ayakkabı alışverişi: önce dolabını kontrol et
+37. Yerli üretim ayakkabıda nelere bakılır?
+38. Ayakkabı tabanı türleri: kauçuk, EVA, termo
 
 ---
 
 ## 1. Ayakkabı numaranı evde nasıl ölçersin?
 
-**SEO başlığı:** Ayakkabı Numarası Nasıl Ölçülür? Evde 3 Adımda | Comfortinos
-**Meta açıklama:** Bir kağıt, kalem ve cetvelle ayakkabı numaranı evde ölç. Kadın ayakkabı numara tablosu (35-41) ve doğru seçim için ipuçları.
-**Link:** Tüm kategoriler
+- **SEO başlığı:** Ayakkabı Numarası Nasıl Ölçülür? Evde 3 Adımda | Comfortinos
+- **Meta açıklama:** Bir kağıt, kalem ve cetvelle ayakkabı numaranı evde ölç. Kadın ayakkabı numara tablosu (35-41) ve doğru seçim için ipuçları.
+- **Link:** Tüm kategoriler
 
 Online ayakkabı alırken en çok sorulan soru: "Hangi numarayı almalıyım?" Markadan markaya küçük farklar olabilir. Bu yüzden ayağının gerçek uzunluğunu bilmek en güvenli yol. İhtiyacın olan tek şey bir A4 kağıt, kalem ve cetvel.
 
@@ -42,9 +79,9 @@ Emin olamadıysan info@comfortinos.com adresine yaz, ayağının ölçüsünü s
 
 ## 2. Loafer nasıl kombinlenir? Ofisten hafta sonuna 5 öneri
 
-**SEO başlığı:** Loafer Kombin: Kadınlar İçin 5 Öneri | Comfortinos
-**Meta açıklama:** Kadın loafer ile ofis, hafta sonu ve akşam kombinleri. Pantolon, etek ve jean ile uyumlu 5 sade öneri.
-**Link:** Loafer kategorisi
+- **SEO başlığı:** Loafer Kombin: Kadınlar İçin 5 Öneri | Comfortinos
+- **Meta açıklama:** Kadın loafer ile ofis, hafta sonu ve akşam kombinleri. Pantolon, etek ve jean ile uyumlu 5 sade öneri.
+- **Link:** Loafer kategorisi
 
 Loafer, hem rahat hem düzgün göründüğü için gardırobun en çok iş gören ayakkabılarından biri. Bağcık yok, topuk alçak, şekil temiz. İşte 5 sade kombin.
 
@@ -66,9 +103,9 @@ Loafer modellerimize Loafer kategorisinden bakabilirsin.
 
 ## 3. Deri ayakkabı bakımı: temizleme ve saklama rehberi
 
-**SEO başlığı:** Deri Ayakkabı Nasıl Temizlenir? Bakım Rehberi | Comfortinos
-**Meta açıklama:** Deri ayakkabıyı temizleme, nemden koruma ve saklama yolları. Ayakkabının ömrünü uzatmak için 6 basit alışkanlık.
-**Link:** Babet, Bot
+- **SEO başlığı:** Deri Ayakkabı Nasıl Temizlenir? Bakım Rehberi | Comfortinos
+- **Meta açıklama:** Deri ayakkabıyı temizleme, nemden koruma ve saklama yolları. Ayakkabının ömrünü uzatmak için 6 basit alışkanlık.
+- **Link:** Babet, Bot
 
 Deri ayakkabı doğru bakılırsa yıllarca durur. Çoğu bakım için özel bir şeye gerek yok, sadece düzenli alışkanlık yeter.
 
@@ -92,9 +129,9 @@ Deri ayakkabı doğru bakılırsa yıllarca durur. Çoğu bakım için özel bir
 
 ## 4. Babet altına ne giyilir?
 
-**SEO başlığı:** Babet Kombin: Babet Altına Ne Giyilir? | Comfortinos
-**Meta açıklama:** Kadın babetle pantolon, jean, etek ve elbise kombinleri. Günlük kullanım için sade ve rahat öneriler.
-**Link:** Babet kategorisi
+- **SEO başlığı:** Babet Kombin: Babet Altına Ne Giyilir? | Comfortinos
+- **Meta açıklama:** Kadın babetle pantolon, jean, etek ve elbise kombinleri. Günlük kullanım için sade ve rahat öneriler.
+- **Link:** Babet kategorisi
 
 Babet, gün boyu ayakta olacağın günlerin ayakkabısı. Düz taban, yumuşak görünüm. Peki altına ne giyilir?
 
@@ -116,9 +153,9 @@ Babet modellerimize Babet kategorisinden bakabilirsin.
 
 ## 5. Hakiki deri ile suni deri arasındaki farklar
 
-**SEO başlığı:** Hakiki Deri Nasıl Anlaşılır? Suni Deri ile Farkı | Comfortinos
-**Meta açıklama:** Hakiki deri ve suni deri arasındaki farklar: görünüm, koku, bakım, dayanıklılık ve fiyat. Hangisini seçmelisin?
-**Link:** Tüm kategoriler
+- **SEO başlığı:** Hakiki Deri Nasıl Anlaşılır? Suni Deri ile Farkı | Comfortinos
+- **Meta açıklama:** Hakiki deri ve suni deri arasındaki farklar: görünüm, koku, bakım, dayanıklılık ve fiyat. Hangisini seçmelisin?
+- **Link:** Tüm kategoriler
 
 İkisi de ayakkabıda kullanılıyor ve ikisinin de yeri var. Önemli olan hangisini aldığını bilmek.
 
@@ -146,9 +183,9 @@ Biz her ürün sayfasında malzemeyi açıkça yazıyoruz.
 
 ## 6. Günlük kullanım için topuk yüksekliği nasıl seçilir?
 
-**SEO başlığı:** Kaç cm Topuk Rahat? Günlük Topuk Seçimi | Comfortinos
-**Meta açıklama:** Günlük kullanım için topuk yüksekliği seçimi. 3, 5 ve 7 cm topuk farkları, hangi durumda hangisi iyi gider?
-**Link:** Topuklu kategorisi
+- **SEO başlığı:** Kaç cm Topuk Rahat? Günlük Topuk Seçimi | Comfortinos
+- **Meta açıklama:** Günlük kullanım için topuk yüksekliği seçimi. 3, 5 ve 7 cm topuk farkları, hangi durumda hangisi iyi gider?
+- **Link:** Topuklu kategorisi
 
 Topuklu ayakkabı alırken en önemli sorulardan biri: kaç cm? Cevap, nerede ve ne kadar süre giyeceğine bağlı.
 
@@ -175,9 +212,9 @@ Topuklu modellerimize Topuklu kategorisinden bakabilirsin.
 
 ## 7. Kışın bot seçerken nelere bakmalı?
 
-**SEO başlığı:** Kadın Bot Seçimi: Kışın Nelere Bakmalı? | Comfortinos
-**Meta açıklama:** Kadın bot alırken malzeme, taban, boy, fermuar ve numara seçimi. Kış için doğru bot seçmenin 6 kolay ipucu.
-**Link:** Bot kategorisi
+- **SEO başlığı:** Kadın Bot Seçimi: Kışın Nelere Bakmalı? | Comfortinos
+- **Meta açıklama:** Kadın bot alırken malzeme, taban, boy, fermuar ve numara seçimi. Kış için doğru bot seçmenin 6 kolay ipucu.
+- **Link:** Bot kategorisi
 
 Bot, kışın en çok giydiğin ayakkabı olur. O yüzden doğru seçmek önemli.
 
@@ -199,9 +236,9 @@ Bot modellerimize Bot kategorisinden bakabilirsin.
 
 ## 8. Beyaz sneaker nasıl temiz tutulur?
 
-**SEO başlığı:** Beyaz Sneaker Nasıl Temizlenir? 5 Kolay Adım | Comfortinos
-**Meta açıklama:** Beyaz sneaker temizleme ve koruma rehberi. Deri ve suni deri beyaz ayakkabıyı lekesiz tutmanın basit yolları.
-**Link:** Sneaker kategorisi
+- **SEO başlığı:** Beyaz Sneaker Nasıl Temizlenir? 5 Kolay Adım | Comfortinos
+- **Meta açıklama:** Beyaz sneaker temizleme ve koruma rehberi. Deri ve suni deri beyaz ayakkabıyı lekesiz tutmanın basit yolları.
+- **Link:** Sneaker kategorisi
 
 Beyaz sneaker çok şık ama çabuk kirlenir. Birkaç alışkanlıkla temiz kalır.
 
@@ -225,9 +262,9 @@ Sneaker modellerimize Sneaker kategorisinden bakabilirsin.
 
 ## 9. Ayakkabı nasıl seçilir? Rahat ve doğru ayakkabı için 7 ipucu
 
-**SEO başlığı:** Ayakkabı Nasıl Seçilir? Doğru Ayakkabı İçin 7 İpucu | Comfortinos
-**Meta açıklama:** Kadın ayakkabısı seçerken numara, kalıp, malzeme, taban ve kullanım yerine dikkat et. Rahat ve uzun ömürlü ayakkabı için 7 pratik ipucu.
-**Link:** Tüm kategoriler
+- **SEO başlığı:** Ayakkabı Nasıl Seçilir? Doğru Ayakkabı İçin 7 İpucu | Comfortinos
+- **Meta açıklama:** Kadın ayakkabısı seçerken numara, kalıp, malzeme, taban ve kullanım yerine dikkat et. Rahat ve uzun ömürlü ayakkabı için 7 pratik ipucu.
+- **Link:** Tüm kategoriler
 
 Güzel görünen ama gün sonunda ayağını yoran bir ayakkabı alınca pişman olursun. Doğru ayakkabıyı seçmek için aşağıdaki yedi noktaya bakman yeterli.
 
@@ -251,19 +288,11 @@ Modellerimize kategorilerden bakabilirsin. Numara konusunda emin olamazsan info@
 
 `[Ali kontrol]` Üretici gözüyle eksik bulduğun ipuçlarını ekle.
 
----
-
-# Comfortinos Blog Yazıları, 2. Set (10-18, uzun sürüm)
-
-Not (Ali için): Sağlık iddiası yok. Genel bilgiyle yazıldı. `[Ali kontrol]` işaretli yerleri kendi üretici tecrübene göre düzelt. İade, değişim, kargo ve fiyat gibi site bilgilerini kesinleşince ekle. Her yazı yaklaşık 500-650 kelime.
-
----
-
 ## 10. Sandalet seçerken nelere dikkat etmeli?
 
-**SEO başlığı:** Kadın Sandalet Nasıl Seçilir? 7 İpucu | Comfortinos
-**Meta açıklama:** Yaz için sandalet seçerken taban, bant, topuk ve malzemeye dikkat et. Rahat, şık ve uzun ömürlü sandalet için kapsamlı rehber.
-**Link:** Sandalet kategorisi
+- **SEO başlığı:** Kadın Sandalet Nasıl Seçilir? 7 İpucu | Comfortinos
+- **Meta açıklama:** Yaz için sandalet seçerken taban, bant, topuk ve malzemeye dikkat et. Rahat, şık ve uzun ömürlü sandalet için kapsamlı rehber.
+- **Link:** Sandalet kategorisi
 
 Sandalet yazın en çok giyilen ayakkabılardan biri, ama doğru seçilmediğinde ilk günden ayağı yoran ayakkabıya dönüşebilir. Ayak açıkta olduğu için ayakkabının tutuşu, tabanı ve bantları kapalı modellerden daha belirleyici olur. İşte sandalet alırken bakman gereken yedi nokta.
 
@@ -299,9 +328,9 @@ Sandalet modellerimize Sandalet kategorisinden bakabilirsin.
 
 ## 11. Sneaker mı, loafer mı? Günlük kullanım için hangisi?
 
-**SEO başlığı:** Sneaker mı Loafer mı? Günlük Ayakkabı Seçimi | Comfortinos
-**Meta açıklama:** Kadın sneaker ve loafer arasındaki farklar: görünüm, rahatlık, bakım ve kombin. Ofis, yürüyüş ve hafta sonu için hangisi daha uygun?
-**Link:** Sneaker, Loafer
+- **SEO başlığı:** Sneaker mı Loafer mı? Günlük Ayakkabı Seçimi | Comfortinos
+- **Meta açıklama:** Kadın sneaker ve loafer arasındaki farklar: görünüm, rahatlık, bakım ve kombin. Ofis, yürüyüş ve hafta sonu için hangisi daha uygun?
+- **Link:** Sneaker, Loafer
 
 Gardırobuna tek bir günlük ayakkabı ekleyeceksen sneaker ile loafer arasında kalmış olabilirsin. İkisi de rahat olarak bilinir, ikisi de çok yönlü, ama farklı ortamlarda öne çıkarlar. Bu yazıda ikisini kullanım alanı, görünüm ve bakım açısından karşılaştırıyoruz.
 
@@ -332,9 +361,9 @@ Sneaker ve Loafer kategorilerimize göz atabilirsin.
 
 ## 12. Gün boyu ayakta kalanlar için ayakkabı seçimi
 
-**SEO başlığı:** Gün Boyu Ayakta Kalanlar İçin Ayakkabı Seçimi | Comfortinos
-**Meta açıklama:** Uzun süre ayakta kalıyorsan ayakkabıda ağırlık, taban, kalıp, malzeme ve çorap seçimine dikkat et. Rahat bir gün için pratik rehber.
-**Link:** Babet, Sneaker
+- **SEO başlığı:** Gün Boyu Ayakta Kalanlar İçin Ayakkabı Seçimi | Comfortinos
+- **Meta açıklama:** Uzun süre ayakta kalıyorsan ayakkabıda ağırlık, taban, kalıp, malzeme ve çorap seçimine dikkat et. Rahat bir gün için pratik rehber.
+- **Link:** Babet, Sneaker
 
 Mağaza, okul, mutfak, ofis, muayenehane. Birçok iş gün boyu ayakta kalmayı gerektirir. Bu kişiler için ayakkabı seçimi bir tercih değil, günün nasıl geçeceğini belirleyen bir karar. Bu yazı genel bir rehberdir. Bir sağlık sorunun varsa uzmana danışmalısın.
 
@@ -371,9 +400,9 @@ Babet ve Sneaker kategorilerimizde günlük rahatlığa uygun modelleri bulabili
 
 ## 13. Yazlık ve kışlık ayakkabı arasındaki farklar
 
-**SEO başlığı:** Yazlık ve Kışlık Kadın Ayakkabı Farkları | Comfortinos
-**Meta açıklama:** Yazlık ve kışlık ayakkabı arasında malzeme, taban, astar ve renk farkları. Mevsime göre doğru seçim için kapsamlı rehber.
-**Link:** Tüm kategoriler
+- **SEO başlığı:** Yazlık ve Kışlık Kadın Ayakkabı Farkları | Comfortinos
+- **Meta açıklama:** Yazlık ve kışlık ayakkabı arasında malzeme, taban, astar ve renk farkları. Mevsime göre doğru seçim için kapsamlı rehber.
+- **Link:** Tüm kategoriler
 
 Her mevsim için ayrı bir ayakkabı dolabı kurmak zorunda değilsin, ama mevsimin ihtiyaçlarını bilmek doğru seçim yapmanı kolaylaştırır. İşte yazlık ve kışlık ayakkabıların temel farkları.
 
@@ -407,9 +436,9 @@ Kategorilerimizden mevsime uygun modellere bakabilirsin.
 
 ## 14. İlk loafer'ını alırken: renk, kalıp, taban
 
-**SEO başlığı:** İlk Loafer Alırken Nelere Dikkat Etmeli? | Comfortinos
-**Meta açıklama:** İlk kadın loafer'ını seçerken renk, kalıp, taban, malzeme ve detay önerileri. Her kombine uyan loafer nasıl bulunur?
-**Link:** Loafer kategorisi
+- **SEO başlığı:** İlk Loafer Alırken Nelere Dikkat Etmeli? | Comfortinos
+- **Meta açıklama:** İlk kadın loafer'ını seçerken renk, kalıp, taban, malzeme ve detay önerileri. Her kombine uyan loafer nasıl bulunur?
+- **Link:** Loafer kategorisi
 
 Loafer, gardıropta sessiz ama çok iş gören bir ayakkabı. Bağcık yok, topuk alçak, görünüm düzgün. İlk loafer'ını alırken bakman gereken beş nokta şunlar.
 
@@ -445,9 +474,9 @@ Loafer modellerimizi Loafer kategorisinde bulabilirsin.
 
 ## 15. Ayakkabı nem ve kokudan nasıl korunur?
 
-**SEO başlığı:** Ayakkabı Kokusu Nasıl Önlenir? Nem ve Bakım | Comfortinos
-**Meta açıklama:** Ayakkabıda nem ve kokuyu önlemenin yolları: dönüşümlü kullanım, havalandırma, doğru çorap ve saklama. Pratik bakım rehberi.
-**Link:** Babet, Bot
+- **SEO başlığı:** Ayakkabı Kokusu Nasıl Önlenir? Nem ve Bakım | Comfortinos
+- **Meta açıklama:** Ayakkabıda nem ve kokuyu önlemenin yolları: dönüşümlü kullanım, havalandırma, doğru çorap ve saklama. Pratik bakım rehberi.
+- **Link:** Babet, Bot
 
 Ayakkabı kokusu çoğu zaman bir "temizlik" meselesi değil, bir "nem" meselesidir. Ayak gün içinde ter üretir, bu nem ayakkabının içine dolar ve kurumazsa koku yapar. Çözüm genelde basit alışkanlıklarda.
 
@@ -486,9 +515,9 @@ Babet ve Bot kategorilerimizde günlük kullanım için modeller var.
 
 ## 16. Hediye için ayakkabı alırken numara nasıl seçilir?
 
-**SEO başlığı:** Hediye Ayakkabı Numarası Nasıl Seçilir? | Comfortinos
-**Meta açıklama:** Birine ayakkabı hediye ederken numarayı nasıl öğrenirsin? Numara tahmini, değişim ve doğru model seçimi için ipuçları.
-**Link:** Tüm kategoriler
+- **SEO başlığı:** Hediye Ayakkabı Numarası Nasıl Seçilir? | Comfortinos
+- **Meta açıklama:** Birine ayakkabı hediye ederken numarayı nasıl öğrenirsin? Numara tahmini, değişim ve doğru model seçimi için ipuçları.
+- **Link:** Tüm kategoriler
 
 Ayakkabı hediye etmek güzel bir jest, ama en çok ters gidebilecek hediyelerden biri de. Numara yanlış olursa mutluluk hayal kırıklığına dönebilir. Bu yazıda doğru numarayı nasıl öğreneceğini ve riski nasıl azaltacağını anlatıyoruz.
 
@@ -524,9 +553,9 @@ Comfortinos'ta numara konusunda emin olamazsan info@comfortinos.com adresine yaz
 
 ## 17. Siyah, bej, kahve: ilk ayakkabı rengi nasıl seçilir?
 
-**SEO başlığı:** Ayakkabı Rengi Nasıl Seçilir? Siyah, Bej, Kahve | Comfortinos
-**Meta açıklama:** Kadın ayakkabısında siyah, bej, kahve ve beyaz renklerin farkları. Gardırobuna ve yaşam tarzına uyan ilk rengi seçmek için rehber.
-**Link:** Babet, Loafer
+- **SEO başlığı:** Ayakkabı Rengi Nasıl Seçilir? Siyah, Bej, Kahve | Comfortinos
+- **Meta açıklama:** Kadın ayakkabısında siyah, bej, kahve ve beyaz renklerin farkları. Gardırobuna ve yaşam tarzına uyan ilk rengi seçmek için rehber.
+- **Link:** Babet, Loafer
 
 Yeni bir ayakkabı alırken model kadar renk de önemli. Yanlış renk gardırobunda bir köşede kalır, doğru renk haftada birkaç kez giyilir. İşte dört temel rengin artıları ve eksileri.
 
@@ -567,9 +596,9 @@ Babet ve Loafer kategorilerimizde farklı renk seçeneklerine bakabilirsin.
 
 ## 18. Online ayakkabı alırken nelere dikkat etmeli?
 
-**SEO başlığı:** Online Ayakkabı Alırken Dikkat Edilecekler | Comfortinos
-**Meta açıklama:** İnternetten ayakkabı alırken numara, kalıp, malzeme, fotoğraf, yorum ve iade koşullarına bakmak için 8 adımlı kontrol listesi.
-**Link:** Tüm kategoriler
+- **SEO başlığı:** Online Ayakkabı Alırken Dikkat Edilecekler | Comfortinos
+- **Meta açıklama:** İnternetten ayakkabı alırken numara, kalıp, malzeme, fotoğraf, yorum ve iade koşullarına bakmak için 8 adımlı kontrol listesi.
+- **Link:** Tüm kategoriler
 
 Ayakkabıyı denemeden almak ilk bakışta riskli görünür. Ama doğru bilgiye bakarsan online alışveriş de güvenli olabilir. İşte alışverişten önce kontrol etmen gereken sekiz adım.
 
@@ -604,19 +633,11 @@ Comfortinos'ta her ürün sayfasında bu bilgileri net vermeyi hedefliyoruz. Akl
 
 `[Ali kontrol]` İade, değişim ve kargo cümlelerini gerçek koşullarla güncelle.
 
----
-
-# Comfortinos Blog Yazıları, 3. Set (19-28)
-
-Not (Ali için): Sağlık iddiası yok. Genel bilgiyle yazıldı. `[Ali kontrol]` işaretli yerleri kendi üretici tecrübene göre düzelt. İade, değişim, kargo ve fiyat gibi site bilgilerini kesinleşince ekle. Her yazı yaklaşık 500-650 kelime. Her yazının sonundaki link ikas'ta ilgili kategoriye verilecek.
-
----
-
 ## 19. Sneaker ile 5 gündelik kombin
 
-**SEO başlığı:** Kadın Sneaker Kombinleri: 5 Gündelik Öneri | Comfortinos
-**Meta açıklama:** Kadın sneaker ile jean, elbise, etek ve eşofman kombinleri. Hafta içi ve hafta sonu için sade, kolay uygulanır 5 öneri.
-**Link:** Sneaker kategorisi
+- **SEO başlığı:** Kadın Sneaker Kombinleri: 5 Gündelik Öneri | Comfortinos
+- **Meta açıklama:** Kadın sneaker ile jean, elbise, etek ve eşofman kombinleri. Hafta içi ve hafta sonu için sade, kolay uygulanır 5 öneri.
+- **Link:** Sneaker kategorisi
 
 Sneaker sabah işe de gidiyor, akşam arkadaşlarla yemeğe de. Yeni bir şey almadan, dolaptaki parçalarla beş farklı kombin çıkarabilirsin.
 
@@ -644,9 +665,9 @@ Sneaker modellerimize Sneaker kategorisinden bakabilirsin.
 
 ## 20. Sandalet nasıl kombinlenir?
 
-**SEO başlığı:** Kadın Sandalet Kombinleri: Elbise, Pantolon, Şortla | Comfortinos
-**Meta açıklama:** Kadın sandalet ile yaz kombinleri. Elbise, keten pantolon, şort ve jean ile uyumlu, sade ve rahat 5 öneri.
-**Link:** Sandalet kategorisi
+- **SEO başlığı:** Kadın Sandalet Kombinleri: Elbise, Pantolon, Şortla | Comfortinos
+- **Meta açıklama:** Kadın sandalet ile yaz kombinleri. Elbise, keten pantolon, şort ve jean ile uyumlu, sade ve rahat 5 öneri.
+- **Link:** Sandalet kategorisi
 
 Yaz gelince dolaptaki ilk çıkan ayakkabı sandalet oluyor. Ama bir sandaleti sadece plaj kıyafetiyle düşünmek ona haksızlık. Doğru parçalarla sandalet, gün boyu ve akşama kadar iş görür.
 
@@ -674,9 +695,9 @@ Sandalet modellerimize Sandalet kategorisinden bakabilirsin.
 
 ## 21. Bot nasıl kombinlenir? Elbiseden jeana
 
-**SEO başlığı:** Kadın Bot Kombinleri: Elbise, Jean ve Etekle | Comfortinos
-**Meta açıklama:** Kadın bot ile elbise, jean, etek ve palto kombinleri. Sonbahar ve kış için sade ve kolay uygulanır öneriler.
-**Link:** Bot kategorisi
+- **SEO başlığı:** Kadın Bot Kombinleri: Elbise, Jean ve Etekle | Comfortinos
+- **Meta açıklama:** Kadın bot ile elbise, jean, etek ve palto kombinleri. Sonbahar ve kış için sade ve kolay uygulanır öneriler.
+- **Link:** Bot kategorisi
 
 Sonbahar gelince bot dolaptaki en işe yarar parçalardan biri oluyor. Ama bir bot almak başka, onu iyi kombinlemek başka. Aynı bot, doğru parçayla bambaşka bir hava yakalayabilir.
 
@@ -706,9 +727,9 @@ Bot modellerimize Bot kategorisinden bakabilirsin.
 
 ## 22. Loafer ile çorap giyilir mi? Çorap seçimi
 
-**SEO başlığı:** Loafer ile Çorap Giyilir mi? Çorap Seçimi Rehberi | Comfortinos
-**Meta açıklama:** Kadın loafer ile hangi çorap giyilir? Görünmez çorap, ince çorap ve renkli çorap seçenekleri ve kombin önerileri.
-**Link:** Loafer kategorisi
+- **SEO başlığı:** Loafer ile Çorap Giyilir mi? Çorap Seçimi Rehberi | Comfortinos
+- **Meta açıklama:** Kadın loafer ile hangi çorap giyilir? Görünmez çorap, ince çorap ve renkli çorap seçenekleri ve kombin önerileri.
+- **Link:** Loafer kategorisi
 
 Loafer alırken "çorapla mı giyilir, çorapsız mı?" sorusu mutlaka gelir. Cevap, ne zaman ve neyle giydiğine göre değişiyor. İkisi de olur.
 
@@ -736,9 +757,9 @@ Loafer modellerimize Loafer kategorisinden bakabilirsin.
 
 ## 23. Ayakkabı ile çanta uyumu
 
-**SEO başlığı:** Ayakkabı ve Çanta Uyumu: Renk Seçimi Rehberi | Comfortinos
-**Meta açıklama:** Ayakkabı ve çanta aynı renk mi olmalı? Renk uyumu, ton farkı ve kombin örnekleriyle çanta ve ayakkabı eşleştirme rehberi.
-**Link:** Tüm kategoriler
+- **SEO başlığı:** Ayakkabı ve Çanta Uyumu: Renk Seçimi Rehberi | Comfortinos
+- **Meta açıklama:** Ayakkabı ve çanta aynı renk mi olmalı? Renk uyumu, ton farkı ve kombin örnekleriyle çanta ve ayakkabı eşleştirme rehberi.
+- **Link:** Tüm kategoriler
 
 Eskiden ayakkabı ve çantanın birebir aynı renk olması gerektiği düşünülürdü. Artık bu kural çok katı değil. Yine de iki parçanın birbirine yakışması kombinin toparlanmasını sağlıyor.
 
@@ -768,9 +789,9 @@ Kategorilerimizden ayakkabı modellerine göz atabilirsin.
 
 ## 24. Valiz hazırlarken: seyahat için 3 çift ayakkabı
 
-**SEO başlığı:** Seyahat İçin Ayakkabı Seçimi: Valize 3 Çift | Comfortinos
-**Meta açıklama:** Valize kaç çift ayakkabı koymalı? Şehir turu, akşam yemeği ve rahat gezi için seyahatte işe yarayan 3 çift ayakkabı önerisi.
-**Link:** Tüm kategoriler
+- **SEO başlığı:** Seyahat İçin Ayakkabı Seçimi: Valize 3 Çift | Comfortinos
+- **Meta açıklama:** Valize kaç çift ayakkabı koymalı? Şehir turu, akşam yemeği ve rahat gezi için seyahatte işe yarayan 3 çift ayakkabı önerisi.
+- **Link:** Tüm kategoriler
 
 Valiz hazırlarken ayakkabı konusu kolayca kontrolden çıkıyor. "Belki lazım olur" diye eklenen her çift hem valizi ağırlaştırıyor hem yer kaplıyor. Üç çiftle çoğu seyahati rahat geçirebilirsin.
 
@@ -798,9 +819,9 @@ Kategorilerimizden seyahate uygun ayakkabı modellerine göz atabilirsin.
 
 ## 25. Düğün ve davet için rahat ayakkabı seçimi
 
-**SEO başlığı:** Düğün ve Davet İçin Rahat Ayakkabı Nasıl Seçilir? | Comfortinos
-**Meta açıklama:** Düğün ve davette saatlerce rahat edeceğin ayakkabı seçimi. Babet, dolgu taban ve alçak topuk önerileri, kombin ipuçları.
-**Link:** Babet kategorisi
+- **SEO başlığı:** Düğün ve Davet İçin Rahat Ayakkabı Nasıl Seçilir? | Comfortinos
+- **Meta açıklama:** Düğün ve davette saatlerce rahat edeceğin ayakkabı seçimi. Babet, dolgu taban ve alçak topuk önerileri, kombin ipuçları.
+- **Link:** Babet kategorisi
 
 Düğün ya da davet takvimi dolu olan biri için ayakkabı seçimi hem şıklık hem dayanıklılık meselesi. Saatlerce ayakta kalacak, dans edecek, belki bir yerden bir yere koşturacaksın. Bunu bilerek seçmek gerekiyor.
 
@@ -828,9 +849,9 @@ Babet modellerimize Babet kategorisinden bakabilirsin.
 
 ## 26. Ara sezonda hangi ayakkabı giyilir?
 
-**SEO başlığı:** Ara Sezon Ayakkabıları: Bahar ve Sonbahar İçin Seçim | Comfortinos
-**Meta açıklama:** Bahar ve sonbaharda hangi ayakkabı giyilir? Sneaker, loafer, babet ve bot ile ara sezon ayakkabı seçimi ve kombin önerileri.
-**Link:** Tüm kategoriler
+- **SEO başlığı:** Ara Sezon Ayakkabıları: Bahar ve Sonbahar İçin Seçim | Comfortinos
+- **Meta açıklama:** Bahar ve sonbaharda hangi ayakkabı giyilir? Sneaker, loafer, babet ve bot ile ara sezon ayakkabı seçimi ve kombin önerileri.
+- **Link:** Tüm kategoriler
 
 Ara mevsim, yani bahar ve sonbahar, ayakkabı seçmenin en kafa karıştırıcı dönemi. Sabah serin, öğlen ılık, akşam yine serin olabiliyor. Ne sandalet için yeterince sıcak, ne de kalın bot için yeterince soğuk.
 
@@ -860,9 +881,9 @@ Kategorilerimizden mevsime uygun modellere bakabilirsin.
 
 ## 27. Ayakkabı dolabı düzeni ve saklama
 
-**SEO başlığı:** Ayakkabı Dolabı Düzeni ve Saklama Önerileri | Comfortinos
-**Meta açıklama:** Ayakkabılar nasıl saklanır? Dolap düzeni, kutu kullanımı, mevsim değişimi ve ayakkabı şeklini koruma ipuçları.
-**Link:** Tüm kategoriler
+- **SEO başlığı:** Ayakkabı Dolabı Düzeni ve Saklama Önerileri | Comfortinos
+- **Meta açıklama:** Ayakkabılar nasıl saklanır? Dolap düzeni, kutu kullanımı, mevsim değişimi ve ayakkabı şeklini koruma ipuçları.
+- **Link:** Tüm kategoriler
 
 Ayakkabı dolabı çoğu zaman evin en dağınık yeri olur. Kapıyı açınca üst üste yığılmış ayakkabılar, tek kalmış çiftler, kayıp bağcıklar. Biraz düzenle hem yer kazanırsın hem ayakkabıların daha uzun ömürlü olur.
 
@@ -892,9 +913,9 @@ Kategorilerimizden ayakkabılarına göz atabilirsin.
 
 ## 28. Süet ayakkabı bakımı ve lekeden korunma
 
-**SEO başlığı:** Süet Ayakkabı Bakımı: Temizleme ve Koruma Rehberi | Comfortinos
-**Meta açıklama:** Süet ayakkabı nasıl temizlenir ve korunur? Fırçalama, leke çıkarma, su itici sprey ve saklama ipuçlarıyla süet ayakkabı bakımı.
-**Link:** Bot kategorisi
+- **SEO başlığı:** Süet Ayakkabı Bakımı: Temizleme ve Koruma Rehberi | Comfortinos
+- **Meta açıklama:** Süet ayakkabı nasıl temizlenir ve korunur? Fırçalama, leke çıkarma, su itici sprey ve saklama ipuçlarıyla süet ayakkabı bakımı.
+- **Link:** Bot kategorisi
 
 Süet ayakkabı yumuşak dokusu ve mat görünümüyle çok şık duruyor. Ama bir damla su ya da küçük bir leke gözüne battığında ne yapacağını bilmek rahatlık sağlar. Süet bakımı zor değil, sadece biraz farklı.
 
@@ -922,19 +943,11 @@ Bot modellerimize Bot kategorisinden bakabilirsin.
 
 `[Ali kontrol]` Elinde süet modeller varsa hangi bakım ürünlerinin önerdiğini ya da kullanmamasını söylediğini kendi tecrübene göre ekle.
 
----
-
-# Comfortinos Blog Yazıları, 4. Set (29-38)
-
-Not (Ali için): Sağlık iddiası yok. Genel bilgiyle yazıldı. `[Ali kontrol]` işaretli yerleri kendi üretici tecrübene göre düzelt. İade, değişim, kargo ve fiyat gibi site bilgilerini kesinleşince ekle. Her yazı yaklaşık 500-650 kelime. Her yazının sonundaki link ikas'ta ilgili kategoriye verilecek.
-
----
-
 ## 29. Sneaker bağcığını değiştirerek ayakkabıyı yenilemek
 
-**SEO başlığı:** Sneaker Bağcığı Değiştirme: Ayakkabıyı 5 Dakikada Yenile | Comfortinos
-**Meta açıklama:** Sneaker bağcığı değiştirmek ayakkabıya yeni bir görünüm verir. Bağcık rengi, kalınlığı ve bağlama şekilleri için kolay ipuçları.
-**Link:** Sneaker kategorisi
+- **SEO başlığı:** Sneaker Bağcığı Değiştirme: Ayakkabıyı 5 Dakikada Yenile | Comfortinos
+- **Meta açıklama:** Sneaker bağcığı değiştirmek ayakkabıya yeni bir görünüm verir. Bağcık rengi, kalınlığı ve bağlama şekilleri için kolay ipuçları.
+- **Link:** Sneaker kategorisi
 
 Bir sneaker aylarca giyilince gözün alışıyor. Ayakkabı hâlâ sağlam ama sıkıldığın bir an geliyor. Yeni bir çift almak yerine bağcığı değiştirmeyi dene. Bir çift bağcığın fiyatı ayakkabıya göre çok küçük kalıyor ve etkisi şaşırtıcı.
 
@@ -962,9 +975,9 @@ Sneaker modellerimize Sneaker kategorisinden bakabilirsin.
 
 ## 30. Yağmurlu günde hangi ayakkabı giyilir?
 
-**SEO başlığı:** Yağmurlu Havada Ayakkabı Seçimi: Ne Giyilir? | Comfortinos
-**Meta açıklama:** Yağmurlu havada hangi ayakkabı giyilir? Bot, kauçuk taban ve su geçirmez malzeme seçimi ile hangi ayakkabılardan kaçınmalı.
-**Link:** Bot kategorisi
+- **SEO başlığı:** Yağmurlu Havada Ayakkabı Seçimi: Ne Giyilir? | Comfortinos
+- **Meta açıklama:** Yağmurlu havada hangi ayakkabı giyilir? Bot, kauçuk taban ve su geçirmez malzeme seçimi ile hangi ayakkabılardan kaçınmalı.
+- **Link:** Bot kategorisi
 
 Sabah pencereden bakıp "bugün yağacak" dediğin günlerde ayakkabı seçimi bir anda önem kazanıyor. Bir kere ayakkabın ıslanıp çorabın suyla dolunca bütün gün keyfin kaçıyor. Biraz önceden düşünmek bu durumu önleyebilir.
 
@@ -994,9 +1007,9 @@ Bot modellerimize Bot kategorisinden bakabilirsin.
 
 ## 31. Boyu uzun gösteren ayakkabı seçimi
 
-**SEO başlığı:** Boyu Uzun Gösteren Ayakkabı Nasıl Seçilir? | Comfortinos
-**Meta açıklama:** Boyu uzun gösteren ayakkabı seçimi: burun şekli, renk, topuk ve paça uyumu ile bacakları uzun gösteren kadın ayakkabıları.
-**Link:** Tüm kategoriler
+- **SEO başlığı:** Boyu Uzun Gösteren Ayakkabı Nasıl Seçilir? | Comfortinos
+- **Meta açıklama:** Boyu uzun gösteren ayakkabı seçimi: burun şekli, renk, topuk ve paça uyumu ile bacakları uzun gösteren kadın ayakkabıları.
+- **Link:** Tüm kategoriler
 
 Bazen kendini daha uzun göstermek istersin. Bir toplantı, bir davet ya da sadece aynadaki görüntüyü sevmek için. Bunu yapmak için yüksek topuklu giymek zorunda değilsin. Ayakkabının şekli, rengi ve kombini bacak çizgisini etkiliyor.
 
@@ -1024,9 +1037,9 @@ Kategorilerimizden ayakkabı modellerine göz atabilirsin.
 
 ## 32. Pantolon paça boyu ve ayakkabı uyumu
 
-**SEO başlığı:** Pantolon Paça Boyu ve Ayakkabı Uyumu Rehberi | Comfortinos
-**Meta açıklama:** Pantolon paçası ayakkabıya göre nasıl olmalı? Loafer, sneaker ve bot ile uyumlu paça boyu, kıvırma ve kesim önerileri.
-**Link:** Loafer kategorisi
+- **SEO başlığı:** Pantolon Paça Boyu ve Ayakkabı Uyumu Rehberi | Comfortinos
+- **Meta açıklama:** Pantolon paçası ayakkabıya göre nasıl olmalı? Loafer, sneaker ve bot ile uyumlu paça boyu, kıvırma ve kesim önerileri.
+- **Link:** Loafer kategorisi
 
 Aynı pantolon, farklı ayakkabıyla bambaşka görünür. Çoğu zaman sorun ayakkabıda ya da pantolonda değil, ikisinin buluştuğu noktada. Yani paça boyunda.
 
@@ -1054,9 +1067,9 @@ Loafer modellerimize Loafer kategorisinden bakabilirsin.
 
 ## 33. Ofis için ayakkabı: ne giyilir, ne giyilmez?
 
-**SEO başlığı:** Ofis Ayakkabısı Seçimi: Ne Giyilir, Ne Giyilmez? | Comfortinos
-**Meta açıklama:** Ofis için kadın ayakkabısı seçimi. Loafer, babet ve düz taban modellerle iş yeri uyumu, kaçınılacak ayakkabılar ve renk önerileri.
-**Link:** Loafer kategorisi
+- **SEO başlığı:** Ofis Ayakkabısı Seçimi: Ne Giyilir, Ne Giyilmez? | Comfortinos
+- **Meta açıklama:** Ofis için kadın ayakkabısı seçimi. Loafer, babet ve düz taban modellerle iş yeri uyumu, kaçınılacak ayakkabılar ve renk önerileri.
+- **Link:** Loafer kategorisi
 
 Her ofisin giyim kuralı farklı. Bazı yerlerde klasik ayakkabı beklenir, bazılarında spor ayakkabıyla da kimse bir şey demez. Yazılı bir kural yoksa çevrene bakmak en iyi rehber. Yine de ofis için işe yarayan birkaç genel doğru var.
 
@@ -1086,9 +1099,9 @@ Loafer modellerimize Loafer kategorisinden bakabilirsin.
 
 ## 34. Yaz tatili için ayakkabı listesi
 
-**SEO başlığı:** Yaz Tatili Ayakkabı Listesi: Valize Ne Konur? | Comfortinos
-**Meta açıklama:** Yaz tatilinde hangi ayakkabılar yanına alınmalı? Sandalet, sneaker ve şık akşam ayakkabısıyla sade bir tatil ayakkabı listesi.
-**Link:** Sandalet kategorisi
+- **SEO başlığı:** Yaz Tatili Ayakkabı Listesi: Valize Ne Konur? | Comfortinos
+- **Meta açıklama:** Yaz tatilinde hangi ayakkabılar yanına alınmalı? Sandalet, sneaker ve şık akşam ayakkabısıyla sade bir tatil ayakkabı listesi.
+- **Link:** Sandalet kategorisi
 
 Yaz tatiline giderken valiz hazırlamak keyifli bir iş. Ama ayakkabı konusuna gelince "hepsini alayım" refleksi devreye giriyor. Oysa tatilde gerçekten kullandığın ayakkabı sayısı beklediğinden azdır.
 
@@ -1116,9 +1129,9 @@ Sandalet modellerimize Sandalet kategorisinden bakabilirsin.
 
 ## 35. Az ayakkabıyla gardırop: temel 5 çift
 
-**SEO başlığı:** Temel Ayakkabı Gardırobu: 5 Çiftle Her Kombin | Comfortinos
-**Meta açıklama:** Az ayakkabıyla gardırop oluşturmak için temel 5 çift. Sneaker, loafer, babet, bot ve sandalet ile her mevsim her kombine uyum.
-**Link:** Tüm kategoriler
+- **SEO başlığı:** Temel Ayakkabı Gardırobu: 5 Çiftle Her Kombin | Comfortinos
+- **Meta açıklama:** Az ayakkabıyla gardırop oluşturmak için temel 5 çift. Sneaker, loafer, babet, bot ve sandalet ile her mevsim her kombine uyum.
+- **Link:** Tüm kategoriler
 
 Dolapta onlarca ayakkabı var ama sabah yine giyecek bir şey bulamıyorsun. Çoğumuzun yaşadığı bir şey bu. Çözüm daha çok ayakkabı almak olmuyor. Doğru beş çift çoğu günü kurtarıyor.
 
@@ -1150,9 +1163,9 @@ Kategorilerimizden ayakkabı modellerine göz atabilirsin.
 
 ## 36. Sezon başında ayakkabı alışverişi: önce dolabını kontrol et
 
-**SEO başlığı:** Sezon Başı Ayakkabı Alışverişi: Önce Dolabına Bak | Comfortinos
-**Meta açıklama:** Yeni sezon ayakkabı almadan önce dolabı kontrol etmek için pratik adımlar. Ne eksik, ne fazla, neyi tamir ettirmeli.
-**Link:** Tüm kategoriler
+- **SEO başlığı:** Sezon Başı Ayakkabı Alışverişi: Önce Dolabına Bak | Comfortinos
+- **Meta açıklama:** Yeni sezon ayakkabı almadan önce dolabı kontrol etmek için pratik adımlar. Ne eksik, ne fazla, neyi tamir ettirmeli.
+- **Link:** Tüm kategoriler
 
 Yeni sezon geldiğinde vitrinlere bakmak çok keyifli. Ama alışverişe çıkmadan önce yirmi dakikanı dolabına ayırırsan hem paradan hem yerden kazanırsın.
 
@@ -1182,9 +1195,9 @@ Kategorilerimizden yeni sezon ayakkabılarına bakabilirsin.
 
 ## 37. Yerli üretim ayakkabıda nelere bakılır?
 
-**SEO başlığı:** Yerli Üretim Ayakkabı: Alırken Nelere Bakmalı? | Comfortinos
-**Meta açıklama:** Yerli üretim ayakkabı alırken malzeme, dikiş, taban ve kalıp gibi nelere bakmalı? Kaliteli ayakkabıyı anlamak için kontrol listesi.
-**Link:** Tüm kategoriler
+- **SEO başlığı:** Yerli Üretim Ayakkabı: Alırken Nelere Bakmalı? | Comfortinos
+- **Meta açıklama:** Yerli üretim ayakkabı alırken malzeme, dikiş, taban ve kalıp gibi nelere bakmalı? Kaliteli ayakkabıyı anlamak için kontrol listesi.
+- **Link:** Tüm kategoriler
 
 "Yerli üretim" ibaresi ayakkabı alırken sık gördüğümüz bir ifade. Ama bu ifade tek başına ayakkabının iyi olduğunu söylemez. Ayakkabıyı elinde tutup birkaç noktaya bakınca kalitesi hakkında fikir edinebilirsin.
 
@@ -1214,9 +1227,9 @@ Kategorilerimizden ayakkabı modellerine göz atabilirsin.
 
 ## 38. Ayakkabı tabanı türleri: kauçuk, EVA, termo
 
-**SEO başlığı:** Ayakkabı Taban Türleri: Kauçuk, EVA ve Termo Farkı | Comfortinos
-**Meta açıklama:** Kauçuk, EVA ve termo taban arasındaki farklar nelerdir? Ayakkabı alırken taban malzemesini anlamak için basit bir rehber.
-**Link:** Tüm kategoriler
+- **SEO başlığı:** Ayakkabı Taban Türleri: Kauçuk, EVA ve Termo Farkı | Comfortinos
+- **Meta açıklama:** Kauçuk, EVA ve termo taban arasındaki farklar nelerdir? Ayakkabı alırken taban malzemesini anlamak için basit bir rehber.
+- **Link:** Tüm kategoriler
 
 Ayakkabıyı çevirip alta baktığın oluyor mu? Çoğumuz üstünü, rengini, modelini inceleriz. Oysa ayakkabının nasıl hissettireceğini büyük oranda taban belirliyor. Taban malzemesini bilmek, doğru seçim yapmana yardım eder.
 
@@ -1240,4 +1253,3 @@ Bakım olarak tabanları temiz tutmak ve aşındığında zamanında tamir ettir
 Kategorilerimizden ayakkabı modellerine göz atabilirsin.
 
 `[Ali kontrol]` Modellerinde hangi taban malzemelerini kullandığını ve her birinin özelliklerini kendi üretici bilginle düzelt. Bu yazıdaki genel bilgileri kendi doğrularınla karşılaştır.
-
