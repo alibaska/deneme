@@ -6,7 +6,7 @@ Ayakkabıyla 25 yıldır uğraşıyorum. Önce üretimle başladım. Kalıbını
 
 2020'den sonra işler bozuldu. Ekibim 25 kişiden 5 kişiye düştü. Sonunda fabrikayı kapatmak zorunda kaldım. Kolay olmadı. `[Ali kontrol: "Kolay olmadı" doğru mu? Kendi cümlenle değiştir.]`
 
-Ama ayakkabıyı bırakamadım. `[Ali doldur: neden? Bir iki cümle. Mesela bu işi neden sevdiğin ya da en çok ne özlediğin.]` Eşimle birlikte Comfortinos'u kurdum. Bildiğim işi bu kez doğrudan sana ulaştırmak istedim.
+Ama ayakkabıyı bırakamadım. Çünkü bildiğim tek iş ayakkabı. Eşimle birlikte Comfortinos'u kurdum. Bildiğim işi bu kez doğrudan sana ulaştırmak istedim.
 
 Ayakkabılar İzmir'deki üreticilerin modelleri arasından geliyor. Seçerken ben ayağa bakıyorum: dikişe, tabana, kalıba, malzemeye. Eşim kadın gözüyle bakıyor: bu ayakkabı güzel mi, giyilir mi? İkimizin de beğendiği ayakkabı sana geliyor.
 
