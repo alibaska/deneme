@@ -4,7 +4,7 @@ Ayakkabıyla 25 yıldır uğraşıyoruz. Önce üretimle başladık. Kalıbını
 
 Zor bir dönemden geçtik. İşler bozuldu ve fabrikayı kapatmak zorunda kaldık. Ama ayakkabıyı bırakmadık. Comfortinos'u bildiğimiz işi bu kez doğrudan sana ulaştırmak için kurduk.
 
-Ürünlerimizi İzmir'deki üreticilerin modelleri arasından seçiyoruz. 25 yıllık gözle bakıyoruz: dikişe, tabana, kalıba, malzemeye. Her ayakkabının üzerinde Comfortinos yazıyor ve Comfortinos kutusunda geliyor. `[Ali kontrol: "Kendi gözümüzden geçmeyen ayakkabıyı satmıyoruz" cümlesini ancak doğruysa ekle.]`
+Ürünlerimizi İzmir'deki üreticilerin modelleri arasından seçiyoruz. 25 yıllık gözle bakıyoruz: dikişe, tabana, kalıba, malzemeye. `[Ali kontrol: "Kendi gözümüzden geçmeyen ayakkabıyı satmıyoruz" cümlesini ancak doğruysa ekle.]`
 
 Kadın ayakkabısında loafer, babet, sneaker, sandalet ve bot satıyoruz. Her ürün sayfasında malzemeyi, kalıbı ve ölçüyü yazıyoruz. Bir şeyden emin değilsen sor, kendimiz cevap veriyoruz. `[Ali doldur: iletişim bilgisi.]`
 
