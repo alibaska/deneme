@@ -14,7 +14,7 @@ Seni tanımıyorum ama sabah giydiğin ayakkabının günün nasıl geçeceğini
 
 Küçük bir ekibiz, evimizden çalışıyoruz. Bir şey sormak istersen yaz, cevabını kendim veriyorum. Hoş geldin.
 
-`[Ali doldur: e-posta]`
+E-posta: ali@comfortinos.com
 `[Ali doldur: WhatsApp ya da telefon, istersen]`
 `[Ali doldur: cevap saatleri, istersen]`
 
