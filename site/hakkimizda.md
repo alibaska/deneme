@@ -1,6 +1,6 @@
 # Hakkımızda
 
-Ayakkabıyla 25 yıldır uğraşıyorum. Önce üretimle başladım. Kalıbını, tabanını, dikişini kendi ellerimle öğrendim. `[Ali doldur: fabrikanın nerede olduğu, ne ürettiğiniz.]`
+Ayakkabıyla 25 yıldır uğraşıyorum. Önce üretimle başladım. Kalıbını, tabanını, dikişini kendi ellerimle öğrendim. İzmir Işıkkent'te, Almanya'ya 50 yaş üstü müşteriler için konfor deri ayakkabı üretiyorduk. Yanımda 25 kişi çalışıyordu.
 
 Zor bir dönemden geçtik. İşler bozuldu ve fabrikayı kapatmak zorunda kaldım. Ama ayakkabıyı bırakmadım. Comfortinos'u, bildiğim işi bu kez doğrudan sana ulaştırmak için eşimle birlikte kurduk.
 
