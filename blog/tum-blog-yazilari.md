@@ -51,13 +51,13 @@ Not (Ali için): Sağlık iddiası yok. Genel bilgiyle yazıldı. `[Ali kontrol]
 - **Meta açıklama:** Bir kağıt, kalem ve cetvelle ayakkabı numaranı evde ölç. Kadın ayakkabı numara tablosu (35-41) ve doğru seçim için ipuçları.
 - **Link:** Tüm kategoriler
 
-Online ayakkabı alırken en çok sorulan soru: "Hangi numarayı almalıyım?" Markadan markaya küçük farklar olabilir. Bu yüzden ayağının gerçek uzunluğunu bilmek en güvenli yol. İhtiyacın olan tek şey bir A4 kağıt, kalem ve cetvel.
+Online ayakkabı alırken en çok sorulan soru "Hangi numarayı almalıyım?" oluyor. Markadan markaya küçük farklar çıkabildiği için numaraya güvenmek yerine ayağının gerçek uzunluğuna bakmak daha sağlam. Bunun için bir A4 kağıt, bir kalem ve bir cetvel yetiyor.
 
-**1. Doğru zamanı seç.** Ayaklar gün içinde biraz genişler. Ölçümü akşamüzeri, genelde giydiğin çorapla yap.
+Ölçümü akşamüzeri yap. Ayaklar gün içinde biraz genişler, o saatte aldığın ölçü ayakkabının gün sonunda da rahat gelmesini sağlar. Günlük giydiğin çorabı giy.
 
-**2. Ayağını çiz.** Kağıdı duvara dayalı şekilde yere koy. Topuğunu duvara yaslayıp kağıda bas, en uzun parmağının ucunu işaretle. İki ayağını da ölç, uzun olanı esas al.
+Kağıdı duvara dayayarak yere koy ve topuğunu duvara yasla. Ayağının üstüne bastır, en uzun parmağının ucunu kağıda işaretle. İki ayağı da ölç. Genelde biri biraz daha uzundur, uzun olanı esas al.
 
-**3. Ölç ve tabloya bak.** Duvardan işarete kadar olan mesafeyi santimetre olarak ölç.
+Duvardan işarete kadar olan mesafeyi santimetre olarak ölç ve tabloya bak.
 
 | Ayak uzunluğu (cm) | Numara |
 |---|---|
@@ -69,11 +69,11 @@ Online ayakkabı alırken en çok sorulan soru: "Hangi numarayı almalıyım?" M
 | 26 | 40 |
 | 26,5 | 41 |
 
-**İki numara arasında kaldıysan:** Kapalı ve sivri burunlu modellerde büyük numarayı, açık modellerde küçük numarayı tercih edebilirsin. Her ürün sayfasında kalıbın dar mı normal mi olduğunu ayrıca belirtiyoruz.
+İki numara arasında kaldıysan modele göre karar ver. Kapalı ve sivri burunlu modellerde büyük numarayı, açık modellerde küçük numarayı seçebilirsin. Kalıbın dar mı normal mi olduğu ürün sayfasında yazıyor.
 
-Emin olamadıysan info@comfortinos.com adresine yaz, ayağının ölçüsünü söyle, birlikte seçelim. Numara uymazsa değişim koşullarını İade ve Değişim sayfasında bulabilirsin.
+Yine de emin olamazsan info@comfortinos.com adresine yaz, ayağının ölçüsünü söyle, birlikte bakalım. Numara uymazsa değişim koşullarını İade ve Değişim sayfasında bulabilirsin.
 
-`[Ali kontrol]` Tablodaki cm değerlerini kendi kalıplarınla karşılaştır.
+`[Ali kontrol]` Tablodaki cm değerlerini kendi kalıplarınla karşılaştır. Ürün sayfalarında kalıp bilgisinin gerçekten yazdığını doğrula.
 
 ---
 
@@ -83,19 +83,19 @@ Emin olamadıysan info@comfortinos.com adresine yaz, ayağının ölçüsünü s
 - **Meta açıklama:** Kadın loafer ile ofis, hafta sonu ve akşam kombinleri. Pantolon, etek ve jean ile uyumlu 5 sade öneri.
 - **Link:** Loafer kategorisi
 
-Loafer, hem rahat hem düzgün göründüğü için gardırobun en çok iş gören ayakkabılarından biri. Bağcık yok, topuk alçak, şekil temiz. İşte 5 sade kombin.
+Loaferın bağcığı yok, topuğu alçak, çizgisi temiz. Bu yüzden gardıropta en çok iş gören ayakkabılardan biri. Beş kombine bakalım.
 
-**1. Kumaş pantolon ve gömlek.** Ofis için klasik. Pantolonun paçası ayak bileğinde bitsin ki ayakkabı görünsün.
+1. Kumaş pantolon ve gömlek. Ofis için klasik. Paçayı ayak bileğinde bitir ki ayakkabı görünsün.
 
-**2. Düz paça jean ve beyaz tişört.** Hafta sonunun en rahat hali. Siyah veya koyu kahve loafer bu kombine oturur.
+2. Düz paça jean ve beyaz tişört. Hafta sonunun en rahat hali. Siyah ya da koyu kahve loafer buna çok yakışıyor.
 
-**3. Midi etek ve ince çorap.** Kısa, ince çorapla loafer giymek hafif bir okul havası verir, ama sade renklerle şık durur.
+3. Midi etek ve ince çorap. Kısa, ince çorapla loafer hafif bir okul havası verir. Sade renklerle seçersen şık kalır.
 
-**4. Blazer ceket ve çizgili pantolon.** Toplantı veya akşam yemeği için. Tek renk loafer seç.
+4. Blazer ceket ve çizgili pantolon. Toplantı ya da akşam yemeği için. Loaferı tek renk seç.
 
-**5. Elbise ve loafer.** Gündüz elbiseleri ile şaşırtıcı güzel durur. Elbise uzunluğu diz civarındaysa daha dengeli olur.
+5. Elbise ve loafer. Gündüz elbiseleriyle şaşırtıcı derecede iyi gidiyor. Elbise diz civarında bitiyorsa denge daha iyi oturur.
 
-**Renk seçimi:** İlk loafer'ın siyah ya da koyu kahve olsun. Her kombine uyar.
+İlk loaferın siyah ya da koyu kahve olsun, beş kombinin hepsine uyar.
 
 Loafer modellerimize Loafer kategorisinden bakabilirsin.
 
@@ -107,23 +107,23 @@ Loafer modellerimize Loafer kategorisinden bakabilirsin.
 - **Meta açıklama:** Deri ayakkabıyı temizleme, nemden koruma ve saklama yolları. Ayakkabının ömrünü uzatmak için 6 basit alışkanlık.
 - **Link:** Babet, Bot
 
-Deri ayakkabı doğru bakılırsa yıllarca durur. Çoğu bakım için özel bir şeye gerek yok, sadece düzenli alışkanlık yeter.
+Deri ayakkabı iyi bakılırsa yıllarca durur. Özel bir ürüne gerek yok, düzenli birkaç alışkanlık yetiyor.
 
-**1. Her kullanımdan sonra sil.** Kuru ve yumuşak bir bezle tozunu al. Toz deride birikip çatlama yapabilir.
+Her kullanımdan sonra kuru, yumuşak bir bezle tozunu al. Toz deride birikirse çatlamaya yol açabilir.
 
-**2. Islanırsa kurut, ısıtma.** Kalorifer veya saç kurutma makinesiyle kurutma. Deri sertleşir ve çatlar. Kağıt tıkıp oda sıcaklığında kurumasını bekle.
+Islanırsa kurut ama ısıtma. Kalorifer ya da saç kurutma makinesi deriyi sertleştirir ve çatlatır. İçine kağıt tıkıp oda sıcaklığında kurumasını bekle.
 
-**3. Lekeyi hemen temizle.** Hafif nemli bezle lekenin üstünden sil. Güçlü kimyasallar kullanma.
+Leke olursa hemen, hafif nemli bir bezle sil. Güçlü kimyasallar kullanma.
 
-**4. Deri kremi veya cila kullan.** Ayda bir ince bir kat sür, fırçayla veya bezle parlat. Rengine uygun ürün seç.
+Ayda bir ince bir kat deri kremi ya da cila sür, sonra fırçayla ya da bezle parlat. Ayakkabının rengine uygun ürün seç.
 
-**5. Her gün aynı ayakkabıyı giyme.** İki ayakkabıyı dönüşümlü giyersen ayakkabı iç nemden kurtulur.
+Aynı çifti her gün giyme. İki ayakkabı arasında dönüşümlü gidersen içindeki nem kurumaya fırsat bulur.
 
-**6. Doğru sakla.** Kutusunda veya bez torbada, serin ve kuru yerde. Plastik poşette saklama, nem tutar. Bot gibi uzun modellerde içine kağıt veya şekillendirici koy.
+Saklarken kutusunu ya da bez torbayı tercih et, yer serin ve kuru olsun. Plastik poşet nem tutar. Bot gibi uzun modellerin içine kağıt ya da şekillendirici koy.
 
-**Suni deri:** Suni deri için nemli bezle silmek yeterli, deri kremi gerekmez. Ürün sayfasında malzemeyi her zaman yazıyoruz.
+Suni deri daha az bakım ister. Nemli bezle silmek yeterli, krem gerekmez. Malzemeyi ürün sayfasında yazıyoruz.
 
-`[Ali kontrol]` Üretici olarak tavsiye ettiğin ürün ve yöntemi ekle.
+`[Ali kontrol]` Üretici olarak tavsiye ettiğin ürün ve yöntemi ekle. Ürün sayfalarında malzemenin her zaman yazdığını doğrula.
 
 ---
 
@@ -133,19 +133,19 @@ Deri ayakkabı doğru bakılırsa yıllarca durur. Çoğu bakım için özel bir
 - **Meta açıklama:** Kadın babetle pantolon, jean, etek ve elbise kombinleri. Günlük kullanım için sade ve rahat öneriler.
 - **Link:** Babet kategorisi
 
-Babet, gün boyu ayakta olacağın günlerin ayakkabısı. Düz taban, yumuşak görünüm. Peki altına ne giyilir?
+Babet, gün boyu ayakta olacağın günlerin ayakkabısı. Düz tabanı ve yumuşak görünümü çoğu kıyafetle uyuyor ama yine de bazı kombinler daha iyi çalışıyor.
 
-**Dar paça pantolon.** Ayak bileği görünsün. Babet ve pantolon arasında boşluk olması hem uzun hem hafif gösterir.
+Dar paça pantolonla babet iyi gider. Ayak bileğin görünsün. Pantolonla babet arasında bir boşluk kalınca bacak hem uzun hem hafif görünür.
 
-**Kot pantolon.** Düz veya hafif bol paça. Paçayı bir iki kıvır, ayakkabı öne çıksın.
+Kot pantolonda düz ya da hafif bol paça uygun. Paçayı bir iki kıvırırsan ayakkabı öne çıkar.
 
-**Etek ve elbise.** Midi etek, diz boyu elbise veya mini etekle çok iyi gider. İnce çorap eklersen sonbahar için de uygun olur.
+Midi etek, diz boyu elbise ya da mini etekle babet çok güzel durur. İnce çorap eklersen sonbahara da taşırsın.
 
-**Keten pantolon.** Yaz için rahat ve hafif.
+Yazın keten pantolon hem hafif hem rahat.
 
-**Sivri burun mu, yuvarlak burun mu?** Sivri burun daha şık ve ayağı uzun gösterir. Yuvarlak burun daha rahat ve gündelik durur.
+Burun şekli görünümü değiştiriyor. Sivri burunlu babet daha şık durur ve ayağı uzun gösterir. Yuvarlak burun daha rahat ve gündelik.
 
-**Renk:** Siyah her yere uyar. Bej ve ten rengi bacağı uzun gösterir. Koyu kırmızı ve lacivert kombine renk katar.
+Renkte siyah her yere uyar. Bej ve ten rengi bacağı uzun gösterir. Koyu kırmızı ya da lacivert kombine renk katar.
 
 Babet modellerimize Babet kategorisinden bakabilirsin.
 
@@ -157,7 +157,7 @@ Babet modellerimize Babet kategorisinden bakabilirsin.
 - **Meta açıklama:** Hakiki deri ve suni deri arasındaki farklar: görünüm, koku, bakım, dayanıklılık ve fiyat. Hangisini seçmelisin?
 - **Link:** Tüm kategoriler
 
-İkisi de ayakkabıda kullanılıyor ve ikisinin de yeri var. Önemli olan hangisini aldığını bilmek.
+İkisi de ayakkabıda kullanılıyor ve ikisinin de yeri var. Karar vermeden önce hangisini aldığını bilmen yeterli.
 
 | | Hakiki deri | Suni deri |
 |---|---|---|
@@ -168,16 +168,13 @@ Babet modellerimize Babet kategorisinden bakabilirsin.
 | Bakım | Deri kremi, nemden korunma | Nemli bezle silmek yeterli |
 | Fiyat | Genelde daha yüksek | Genelde daha uygun |
 
-**Nasıl anlarsın?**
-- Kenarına bak. Hakiki derinin kenarında lifli bir yapı görünür, suni derinin kenarı kumaş gibi olabilir.
-- Yüzeydeki desenlere bak. Hakikide küçük düzensizlikler olur.
-- Etikete bak. Hakiki deri için "deri" veya "genuine leather" yazar.
+Ayırt etmek için kenara bak. Hakiki derinin kenarında lifli bir yapı görünür, suni derinin kenarı kumaşa benzeyebilir. Yüzeyde küçük düzensizlikler hakiki deride normal. Etikette "deri" ya da "genuine leather" yazar.
 
-**Hangisini seçmeli?** Uzun süre giyeceğin klasik modellerde hakiki deri iyi bir yatırım. Hızla değişen modada, bütçe dostu ve bakımı kolay modeller için suni deri mantıklı.
+Uzun süre giyeceğin klasik modellerde hakiki deri iyi bir yatırım. Modası çabuk değişen, bakımı kolay ve uygun fiyatlı bir ayakkabı arıyorsan suni deri mantıklı.
 
-Biz her ürün sayfasında malzemeyi açıkça yazıyoruz.
+Malzemeyi her ürün sayfasında yazıyoruz.
 
-`[Ali kontrol]` Üretici olarak daha doğru ayırt etme yollarını ekle.
+`[Ali kontrol]` Üretici olarak daha doğru ayırt etme yollarını ekle. Ürün sayfalarında malzemenin yazdığı cümleyi doğrula.
 
 ---
 
@@ -187,26 +184,21 @@ Biz her ürün sayfasında malzemeyi açıkça yazıyoruz.
 - **Meta açıklama:** Günlük kullanım için topuk yüksekliği seçimi. 3, 5 ve 7 cm topuk farkları, hangi durumda hangisi iyi gider?
 - **Link:** Topuklu kategorisi
 
-Topuklu ayakkabı alırken en önemli sorulardan biri: kaç cm? Cevap, nerede ve ne kadar süre giyeceğine bağlı.
+Topuklu ayakkabı alırken ilk soru genelde "kaç cm?" oluyor. Cevap, nerede ve ne kadar süre giyeceğine bağlı.
 
-**3-4 cm (alçak topuk).** Gün boyu ofis, alışveriş ve yürüyüş için uygun. İlk topuklu ayakkabı için iyi başlangıç.
+3 ila 4 cm alçak topuk, gün boyu ofis, alışveriş ve yürüyüşe uygun. İlk topuklun için de iyi bir başlangıç.
 
-**5-6 cm (orta topuk).** Şıklık ve rahatlık dengesi. Toplantı, yemek ve davetler için.
+5 ila 6 cm orta topukta şıklıkla rahatlık yan yana duruyor. Toplantı, yemek ve davetlerde iş görür.
 
-**7 cm ve üstü.** Daha kısa süreli kullanım için. Akşam yemeği, davet gibi.
+7 cm ve üstü daha kısa süreli kullanım için. Akşam yemeği ya da davet gibi.
 
-**Topuk şekli de önemli.** Kalın topuk dengeyi artırır. İnce topuk daha zarif ama daha az sabit durur.
+Topuğun şekli de yüksekliği kadar fark yaratıyor. Kalın topuk dengeyi artırır. İnce topuk daha zarif görünür ama daha az sabit durur. Ön tarafta ince bir platform varsa aynı topuk yüksekliği daha rahat hissettirir.
 
-**Ön taban (platform).** Ön tarafta ince bir platform varsa aynı topuk yüksekliğini daha rahat hissettirir.
-
-**Alırken dikkat et:**
-- Topuk ayakkabının tam ortasında mı?
-- Taban kaymıyor mu?
-- Dar ya da sert bir yer var mı?
+Alırken şunlara bak: topuk ayakkabının tam ortasında mı, taban kayıyor mu, dar ya da sert bir nokta var mı.
 
 Topuklu modellerimize Topuklu kategorisinden bakabilirsin.
 
-`[Ali kontrol]` Üretici olarak topuk yüksekliği ve denge hakkında tavsiyelerini ekle.
+`[Ali kontrol]` Üretici olarak topuk yüksekliği ve denge hakkında tavsiyelerini ekle. Sitede Topuklu kategorisinin gerçekten olduğunu doğrula.
 
 ---
 
@@ -216,19 +208,19 @@ Topuklu modellerimize Topuklu kategorisinden bakabilirsin.
 - **Meta açıklama:** Kadın bot alırken malzeme, taban, boy, fermuar ve numara seçimi. Kış için doğru bot seçmenin 6 kolay ipucu.
 - **Link:** Bot kategorisi
 
-Bot, kışın en çok giydiğin ayakkabı olur. O yüzden doğru seçmek önemli.
+Bot kışın en çok giydiğin ayakkabı olacak, bu yüzden seçerken altı şeye bakmaya değer.
 
-**1. Malzeme.** Deri nemi daha iyi dışarıda tutar ve zamanla şekil alır. Suni deri daha uygun ve bakımı kolaydır.
+Malzemede deri nemi daha iyi dışarıda tutar ve zamanla ayağa uyar. Suni deri daha uygun fiyatlı ve bakımı kolay.
 
-**2. Taban.** Kaymaz, desenli taban kış için daha güvenli. Düz ve parlak taban ıslak zeminde kaygan olur.
+Tabanın kaymaz ve desenli olması kışın güvenlik için önemli. Düz ve parlak taban ıslak zeminde kayar.
 
-**3. Boy.** Kısa bot (bilek) pantolon ve elbise altında kullanışlı. Uzun bot etek ve elbiseyle şık durur.
+Boyda kısa bot, yani bilek boyu, pantolon ve elbise altında kullanışlı. Uzun bot etek ve elbiseyle daha şık durur.
 
-**4. Fermuar mı, bağcık mı?** Fermuar hızlı giymeyi sağlar. Bağcık sıkılığı ayarlamana izin verir.
+Fermuar hızlı giyip çıkarmak için, bağcık sıkılığı ayarlamak için. Hangisi sana uyuyorsa onu seç.
 
-**5. Numara.** Kalın çorapla giyeceksen numaranın rahat olmasına dikkat et. Ama çok bol alma, ayak içinde kayar.
+Kalın çorapla giyeceksen numaranın buna yer bıraktığından emin ol. Çok bol alırsan ayak içeride kayar.
 
-**6. Renk.** Siyah ve kahve her şeye gider, bakımı da kolay. Bej ve gri daha çok görünür ama kirlenir.
+Renkte siyah ve kahve her şeye gider ve bakımı kolaydır. Bej ve gri öne çıkar ama çabuk kirlenir.
 
 Bot modellerimize Bot kategorisinden bakabilirsin.
 
@@ -240,19 +232,17 @@ Bot modellerimize Bot kategorisinden bakabilirsin.
 - **Meta açıklama:** Beyaz sneaker temizleme ve koruma rehberi. Deri ve suni deri beyaz ayakkabıyı lekesiz tutmanın basit yolları.
 - **Link:** Sneaker kategorisi
 
-Beyaz sneaker çok şık ama çabuk kirlenir. Birkaç alışkanlıkla temiz kalır.
+Beyaz sneaker çok şık ama çabuk kirleniyor. Birkaç alışkanlıkla temiz kalıyor.
 
-**1. Hemen sil.** Kirlenir kirlenmez nemli bezle sil. Leke kurursa çıkması zorlaşır.
+Kirlenir kirlenmez nemli bezle sil. Leke kuruyunca çıkarması zorlaşır.
 
-**2. Yumuşak fırça ve ılık su.** Hafif sabunlu suyla yüzeyi fırçala, sonra temiz bezle sil.
+Biraz daha ciddi bir temizlik için yumuşak bir fırça ve ılık sabunlu su kullan. Yüzeyi fırçaladıktan sonra temiz bir bezle sil. Tabanın beyaz kısmı için eski bir diş fırçası ve sabunlu su iyi iş görür.
 
-**3. Tabanı ayrı temizle.** Tabanın beyaz kısmı için eski bir diş fırçası ile sabunlu su iyi çalışır.
+Çamaşır makinesine atma. Makine yapıştırıcıları ve şekli bozabilir, el ile temizlemek daha güvenli.
 
-**4. Çamaşır makinesine atma.** Makine yapıştırıcıları ve şekli bozabilir. El ile temizlemek daha güvenli.
+Kurutmayı gölgede yap, içine kağıt doldur. Güneşte ve kaloriferde kuruyan beyaz ayakkabı sararabilir.
 
-**5. Hava ile kurut.** Güneşte ve kaloriferde kurutma. Sararabilir. Gölgede, kağıt doldurarak kurut.
-
-**Koruma:** Giymeden önce uygun bir koruyucu sprey kullanırsan lekeler daha az tutunur.
+Giymeden önce uygun bir koruyucu sprey kullanırsan lekeler daha zor tutunur.
 
 `[Ali kontrol]` Beyaz sneaker modelinin malzemesine göre temizleme yöntemini doğrula. Deri ve suni derede farklı olabilir.
 
@@ -266,27 +256,29 @@ Sneaker modellerimize Sneaker kategorisinden bakabilirsin.
 - **Meta açıklama:** Kadın ayakkabısı seçerken numara, kalıp, malzeme, taban ve kullanım yerine dikkat et. Rahat ve uzun ömürlü ayakkabı için 7 pratik ipucu.
 - **Link:** Tüm kategoriler
 
-Güzel görünen ama gün sonunda ayağını yoran bir ayakkabı alınca pişman olursun. Doğru ayakkabıyı seçmek için aşağıdaki yedi noktaya bakman yeterli.
+Güzel görünen ama gün sonunda ayağını yoran bir ayakkabı, dolapta en çok pişmanlık yaratan şeylerden. Yedi noktaya bakarak bunu önleyebilirsin.
 
-**1. Önce nerede giyeceğini düşün.** Ofis, günlük yürüyüş, davet ve kış için aranan özellikler farklı. Gün boyu ayakta kalacaksan alçak topuk ve yumuşak taban öncelik olsun.
+1. Önce nerede giyeceğini düşün. Ofis, günlük yürüyüş, davet ve kış için aranan özellikler farklı. Gün boyu ayakta kalacaksan alçak topuk ve yumuşak taban öncelikli olsun.
 
-**2. Akşamüzeri dene.** Ayaklar gün içinde biraz genişler. Online alıyorsan, ayağını akşam ölçüp numara tablosuna bak. Nasıl ölçeceğini rehberimizde anlattık.
+2. Akşamüzeri dene. Ayaklar gün içinde biraz genişler. Online alıyorsan ayağını akşam ölç ve numara tablosuna bak. Nasıl ölçeceğini rehberimizde anlattık.
 
-**3. Numaraya ve kalıba bak.** Aynı numara farklı modellerde farklı oturabilir. Sivri burunlu modeller daha dar, yuvarlak burunlular daha geniş hissettirir. Ürün sayfasında kalıp bilgisine dikkat et.
+3. Numaranın yanında kalıba da bak. Aynı numara farklı modellerde farklı oturabilir. Sivri burunlu modeller daha dar, yuvarlak burunlular daha geniş hissettirir.
 
-**4. Parmaklarına yer olsun.** Ayakkabı ayağını sıkmamalı. Parmaklarını rahat oynatabilmelisin. Topuğun da yerinde durmalı, çıkmamalı.
+4. Parmaklarına yer olsun. Ayakkabı ayağını sıkmamalı, parmaklarını rahat oynatabilmelisin. Topuğun da yerinde durmalı.
 
-**5. Malzemeyi öğren.** Hakiki deri zamanla ayağa uyar, bakım ister. Suni deri bakımı kolay ve daha uygun fiyatlı. Hangisi olduğu ürün sayfasında yazmalı.
+5. Malzemeyi öğren. Hakiki deri zamanla ayağa uyar ama bakım ister. Suni deri bakımı kolay ve daha uygun fiyatlı. Hangisi olduğu ürün sayfasında yazıyor olmalı.
 
-**6. Tabana bak.** Kaymaz, esnek bir taban hem güvenli hem rahat olur. Çok sert ve düz tabanlı ayakkabı uzun yürüyüşte yorabilir. Taban içi yumuşaksa gün boyu daha konforlu hissedersin.
+6. Tabana bak. Kaymaz ve esnek bir taban hem güvenli hem rahat. Çok sert ve düz taban uzun yürüyüşte yorar. İç taban yumuşaksa gün boyu daha rahat edersin.
 
-**7. İlk kez giyerken kısa süre kullan.** Yeni ayakkabıyı önce evde ve kısa mesafede dene. Uyum sağladığından emin olunca uzun günlerde giy.
+7. Yeni ayakkabıyı önce evde, kısa süre giy. Uyum sağladığını görünce uzun günlere çıkar.
 
-**Hangisinden başlamalı?** Gardırobunda tek ayakkabı alacaksan siyah veya koyu kahve bir loafer ya da babet çoğu kombine uyar.
+Gardırobuna tek çift ekleyeceksen siyah ya da koyu kahve bir loafer ya da babet çoğu kombine uyar.
 
 Modellerimize kategorilerden bakabilirsin. Numara konusunda emin olamazsan info@comfortinos.com adresine yaz.
 
 `[Ali kontrol]` Üretici gözüyle eksik bulduğun ipuçlarını ekle.
+
+---
 
 ## 10. Sandalet seçerken nelere dikkat etmeli?
 
@@ -294,31 +286,37 @@ Modellerimize kategorilerden bakabilirsin. Numara konusunda emin olamazsan info@
 - **Meta açıklama:** Yaz için sandalet seçerken taban, bant, topuk ve malzemeye dikkat et. Rahat, şık ve uzun ömürlü sandalet için kapsamlı rehber.
 - **Link:** Sandalet kategorisi
 
-Sandalet yazın en çok giyilen ayakkabılardan biri, ama doğru seçilmediğinde ilk günden ayağı yoran ayakkabıya dönüşebilir. Ayak açıkta olduğu için ayakkabının tutuşu, tabanı ve bantları kapalı modellerden daha belirleyici olur. İşte sandalet alırken bakman gereken yedi nokta.
+Sandalet yazın en çok giyilen ayakkabılardan, ama yanlış seçildiğinde ilk günden ayağı yorar. Ayak açıkta olduğu için tutuş, taban ve bantlar kapalı modellere göre çok daha belirleyici.
 
-### 1. Ayağın nerede tutulduğuna bak
-İyi bir sandalet ayağı üç noktada tutar: parmak arası veya ön bant, bilek veya topuk bandı ve taban. Hepsi birbirini dengelemeli. Sadece tek bir ince banda güvenen modeller yürürken ayağı kaydırır, bu da hem rahatsız eder hem de güvensiz hissettirir.
+### Ayağı nerede tutuyor?
 
-### 2. Bantlar sıkmasın, ama gevşek de olmasın
-Bantlar ayağı sıkıp iz bırakmamalı. Aynı zamanda gevşek olursa her adımda ayak öne kayar ve parmaklar sıkışır. Ayarlanabilir tokalar bu yüzden pratik: sabah ve akşam ayak ölçüsü biraz değiştiğinde bandı ayarlayabilirsin.
+İyi bir sandalet ayağı üç yerden tutar: parmak arası ya da ön bant, bilek ya da topuk bandı ve taban. Bu üçü birbirini dengelemeli. Tek bir ince banda yaslanan modeller yürürken ayağı kaydırır ve güvensiz hissettirir.
 
-### 3. Taban esnek ve kaymaz olmalı
-Sandalet yazın giyildiği için terli ve nemli ayakla kullanılır. Parlak ve düz tabanlar bu durumda kayabilir. Desenli, hafif esnek taban hem güvenli hem rahat olur. Ayakkabıyı elinle ortadan hafifçe bük, ön kısım doğal şekilde esnemeli.
+### Bantlar
 
-### 4. Topuk yüksekliği ve dengesi
-Topuklu sandaletlerde yükseklikten çok topuğun ayağın tam altında durması önemli. Topuk ayakkabının ortasında değil geride ve ince ise denge zorlaşır. Günlük kullanım için 3-5 cm kalın topuk, uzun yürüyüşte düz veya hafif dolgu taban iyi bir seçimdir.
+Bant ayağı sıkıp iz bırakmamalı, ama gevşek de olmamalı. Gevşek bantta her adımda ayak öne kayar ve parmaklar sıkışır. Ayarlanabilir tokalar bu yüzden pratik. Gün içinde ayak biraz değiştiğinde bandı yeniden ayarlayabilirsin.
 
-### 5. Malzeme: deri mi, suni deri mi?
-Deri bantlar zamanla ayağa uyar ve yumuşar. Suni deri bantlar bazen sertçe başlayabilir ve sıcakta ter yapabilir. Deri daha çok bakım ister, suni deri bakımı kolay ve daha uygun fiyatlı olur. Ürün sayfasında malzemenin açıkça yazılı olması önemli.
+### Taban
 
-### 6. Burun ve topuk dışarı taşmasın
-Parmakların tabanın dışına taşıyorsa yürürken bir yere takılabilir. Topuğun tabanın dışına çok taşması da benzer şekilde rahatsız eder. Ayağın tabanın içinde, kenarlardan biraz pay bırakarak durmalı.
+Yazın sandaletle terli ve nemli ayakla yürürsün. Parlak, düz taban bu durumda kayar. Desenli ve hafif esnek taban daha güvenli. Sandaleti elinle ortadan hafifçe bük, ön kısım doğal şekilde esnemeli.
 
-### 7. Renk ve kombin
-Siyah, bej ve kahve sandaletler çoğu kıyafetle uyum sağlar. Bej ve ten rengi modeller bacağı uzun gösterir. Metalik tonlar (altın, bakır) akşam için iyi bir ikinci çift olur. İlk sandaletini sade bir modelden seç, daha sonra karakterli modellere geç.
+### Topuk
 
-### Alırken küçük bir test
-Sandaleti giydiğinde kısa bir yürüyüş yap. Ayağın öne kaymıyor, bantlar kesmiyor ve topuk dengede duruyorsa doğru seçim yaptın demektir. Online alıyorsan ürün sayfasındaki ölçü ve tablo bilgilerini oku, emin olamazsan bize yaz.
+Topuklu sandaletlerde yüksekliğin yanında topuğun ayağın tam altında durması önemli. Topuk geride ve inceyse denge zorlaşır. Günlük kullanım için 3 ila 5 cm kalın topuk uygun. Uzun yürüyüşte düz ya da hafif dolgu taban daha iyi.
+
+### Malzeme
+
+Deri bantlar zamanla ayağa uyar ve yumuşar. Suni deri bantlar başta sert gelebilir ve sıcakta ter yapabilir. Deri daha çok bakım ister, suni deri bakımı kolay ve daha uygun fiyatlı. Ürün sayfasında malzemenin yazılı olması gerekir.
+
+### Taşma
+
+Parmakların tabanın dışına çıkıyorsa yürürken bir yere takılabilirsin. Topuk çok taşıyorsa da rahatsız eder. Ayağın tabanın içinde, kenarlardan biraz pay bırakarak durmalı.
+
+### Renk
+
+Siyah, bej ve kahve sandaletler çoğu kıyafetle uyar. Bej ve ten rengi modeller bacağı uzun gösterir. Altın ve bakır gibi metalik tonlar akşam için iyi bir ikinci çift olur. İlk sandaletini sade bir modelden seç.
+
+Almadan önce kısa bir yürüyüş yap. Ayağın öne kaymıyor, bantlar kesmiyor ve topuk dengede duruyorsa uygun bir model bulmuşsun. Online alıyorsan ürün sayfasındaki ölçü tablosunu oku, emin olamazsan bize yaz.
 
 Sandalet modellerimize Sandalet kategorisinden bakabilirsin.
 
@@ -332,28 +330,31 @@ Sandalet modellerimize Sandalet kategorisinden bakabilirsin.
 - **Meta açıklama:** Kadın sneaker ve loafer arasındaki farklar: görünüm, rahatlık, bakım ve kombin. Ofis, yürüyüş ve hafta sonu için hangisi daha uygun?
 - **Link:** Sneaker, Loafer
 
-Gardırobuna tek bir günlük ayakkabı ekleyeceksen sneaker ile loafer arasında kalmış olabilirsin. İkisi de rahat olarak bilinir, ikisi de çok yönlü, ama farklı ortamlarda öne çıkarlar. Bu yazıda ikisini kullanım alanı, görünüm ve bakım açısından karşılaştırıyoruz.
+Gardırobuna tek bir günlük ayakkabı ekleyeceksen sneaker ile loafer arasında kalmış olabilirsin. İkisi de rahat ve çok yönlü, ama farklı ortamlarda öne çıkıyorlar.
 
-### Görünüm: spor mu, düzgün mü?
-Sneaker doğası gereği gündelik ve sportif bir hava verir. Jean, elbise, eşofman ve hatta bazen etekle bile rahatça giyilir. Loafer ise daha derli toplu, yarı resmi bir görünüm sunar. Kumaş pantolon, blazer ve midi etekle çok uyumlu durur.
+### Görünüm
 
-### Rahatlık ve taban
-Sneaker'ların çoğunda taban daha kalın ve esnektir, bu da uzun yürüyüşlerde ve şehir içi gezilerde işe yarar. Loafer'ların tabanı genelde daha ince ve düzdür. Ama ince tabanlı olması rahatsız olduğu anlamına gelmez. Esnek, yumuşak iç tabanlı loafer'lar gün boyu rahat kullanılabilir. Önemli olan modelin kendi yapısı.
+Sneaker gündelik ve sportif bir hava verir. Jean, elbise, eşofman ve bazen etekle de giyilir. Loafer daha derli toplu ve yarı resmi durur. Kumaş pantolon, blazer ve midi etekle çok uyumlu.
 
-### Ofis ve iş ortamı
-Ofiste giyim kuralı rahat ise minimal, tek renk sneaker kullanılabilir. Daha düzgün bir ortam için loafer daha güvenli seçim. Toplantı, sunum ve müşteri ziyaretlerinde loafer kendini rahat hissettirir.
+### Taban
+
+Sneakerların tabanı çoğunlukla daha kalın ve esnek. Bu, uzun yürüyüşlerde ve şehir gezilerinde işe yarıyor. Loaferların tabanı genelde daha ince ve düz, ama bu rahatsız olduğu anlamına gelmiyor. Esnek ve yumuşak iç tabanlı bir loafer gün boyu rahat gider. Burada modelin kendi yapısı belirleyici.
+
+### Ofis
+
+Giyim kuralı rahat bir ofiste sade, tek renk bir sneaker kullanabilirsin. Daha düzgün bir ortamda loafer güvenli seçim. Toplantı, sunum ve müşteri ziyaretlerinde loafer rahat ettirir.
 
 ### Bakım
-Beyaz sneaker çok şık ama çabuk kirlenir, düzenli temizlik ister. Koyu renk sneaker daha pratik. Deri loafer ise zaman zaman krem ve cila ister, suni deri loafer'ı nemli bezle silmek yeter.
 
-### Kombin esnekliği
-- **Sneaker:** Jean, tişört, elbise, eşofman, pantolon.
-- **Loafer:** Kumaş pantolon, gömlek, blazer, midi etek, düz paça jean.
+Beyaz sneaker çabuk kirlenir ve düzenli temizlik ister. Koyu renk sneaker daha pratik. Deri loafer arada krem ve cila ister, suni deri loaferı nemli bezle silmek yeter.
 
-### Hangisini seçmeli?
-Gün boyu çok yürüyorsan, şehir içinde dolaşıyorsan veya rahat bir ortamda çalışıyorsan sneaker mantıklı. Daha düzgün görünmek istiyorsan, ofis ve akşam yemeği dahil çok yerde kullanacaksan loafer daha dengeli.
+### Kombin
 
-Tek ayakkabı alacaksan hangi ortamda daha çok bulunacağını düşün. İkisini birlikte alabiliyorsan günlük için sneaker, daha resmi günler için loafer iyi bir ikili olur.
+Sneaker jean, tişört, elbise, eşofman ve pantolonla gider. Loafer kumaş pantolon, gömlek, blazer, midi etek ve düz paça jeanle gider.
+
+### Hangisi?
+
+Gün boyu çok yürüyorsan, şehirde dolaşıyorsan ya da rahat bir ortamda çalışıyorsan sneaker mantıklı. Daha düzgün görünmek istiyorsan ve ofisten akşam yemeğine kadar tek çiftle idare edeceksen loafer daha dengeli. İkisini birlikte alabiliyorsan günlük için sneaker, resmî günler için loafer iyi bir çift olur.
 
 Sneaker ve Loafer kategorilerimize göz atabilirsin.
 
@@ -365,34 +366,41 @@ Sneaker ve Loafer kategorilerimize göz atabilirsin.
 - **Meta açıklama:** Uzun süre ayakta kalıyorsan ayakkabıda ağırlık, taban, kalıp, malzeme ve çorap seçimine dikkat et. Rahat bir gün için pratik rehber.
 - **Link:** Babet, Sneaker
 
-Mağaza, okul, mutfak, ofis, muayenehane. Birçok iş gün boyu ayakta kalmayı gerektirir. Bu kişiler için ayakkabı seçimi bir tercih değil, günün nasıl geçeceğini belirleyen bir karar. Bu yazı genel bir rehberdir. Bir sağlık sorunun varsa uzmana danışmalısın.
+Mağaza, okul, mutfak, ofis. Birçok iş gün boyu ayakta kalmayı gerektiriyor. Bu işlerde ayakkabı günün nasıl geçeceğini belirliyor. Aşağıdakiler genel ipuçları. Bir sağlık sorunun varsa uzmana danışmalısın.
 
-### 1. Hafif ayakkabıyı tercih et
-Ağır ayakkabı her adımda biraz daha fazla yük demek. Gün sonunda bu farkı hissedersin. Ürün tanımında ağırlık yazmıyorsa elinde tartıp karşılaştırabilirsin.
+### Ağırlık
 
-### 2. Taban esnek ve yumuşak olsun
-Çok sert taban ve çok ince taban yürürken yer ile ayak arasında az yastık bırakır. Çok yumuşak, şekilsiz taban da dengesiz hissettirir. İdeal olan, ayağı hafifçe taşıyan ama formunu koruyan bir taban.
+Ağır ayakkabı her adımda biraz daha fazla yük demek. Gün sonunda bunu hissedersin. Ürün tanımında ağırlık yazmıyorsa iki modeli elinde tartıp karşılaştırabilirsin.
 
-### 3. Topuk alçak veya kalın olsun
-Gün boyu ayakta kalacaksan 2-4 cm kalın topuk dengeli bir seçim. Çok ince ve yüksek topuk uzun süre rahatsız edebilir. Düz taban sevenler için esnek tabanlı babet ve sneaker iyi seçenek.
+### Taban
 
-### 4. Burun bölgesi yeterince geniş olsun
-Gün içinde ayak biraz genişler. Parmakların rahat oynayabileceği bir burun yapısı gerekir. Sivri burunlu modelde yeterli genişlik olduğundan emin ol.
+Çok sert ve çok ince taban, yer ile ayak arasında az yastık bırakır. Çok yumuşak ve şekilsiz taban da dengesiz hissettirir. Ayağı hafifçe taşıyan ama formunu koruyan bir taban arıyorsun.
 
-### 5. Topuk ayakkabıda yerinde durmalı
-Topuğun çıkıyorsa ayakkabı her adımda biraz kayıyor demektir. Bu hem rahatsız eder hem de ayağa sürtünme yapabilir. Topuk bölgesi ayağı sarmalı.
+### Topuk
 
-### 6. Malzeme nefes almalı
-Deri ve nefes alan astarlar ayağın nemini dengelemeye yardım eder. Sentetik malzemelerde astar kalitesi önemli.
+Gün boyu ayaktaysan 2 ila 4 cm kalın topuk dengeli bir seçim. Çok ince ve yüksek topuk uzun sürede rahatsız eder. Düz taban seviyorsan esnek tabanlı babet ya da sneaker iyi.
 
-### 7. İki çift ayakkabıyı dönüşümlü giy
-Her gün aynı ayakkabıyı giymek yerine iki çift arasında dönüşümlü kullanım hem ayakkabının ömrünü uzatır hem de iç nemin kurumasına süre verir.
+### Burun
 
-### 8. Çorap seçimi
-Dikişi az, nefes alan pamuklu veya karışımlı çoraplar tercih et. Çok kalın çorap kalıbı daraltabilir.
+Gün içinde ayak biraz genişler. Parmaklarının oynayabileceği bir burun yapısı gerekir. Sivri burunlu bir modelde yeterli genişlik olduğundan emin ol.
 
-### Alırken ne yapmalı?
-Ayakkabıyı akşamüzeri dene, ayakların biraz genişlemişken. Mağazada veya evde birkaç dakika yürü. Parmağın sıkışmıyor, topuğun çıkmıyor, taban sert gelmiyorsa iyi bir başlangıç.
+### Topuk bölgesi
+
+Topuğun çıkıyorsa ayakkabı her adımda kayıyor demektir. Bu hem rahatsız eder hem sürtünme yapar. Topuk bölgesi ayağı saran bir yapıda olmalı.
+
+### Malzeme
+
+Deri ve nefes alan astarlar ayağın nemini dengelemeye yardım eder. Sentetik malzemede astar kalitesine bak.
+
+### Dönüşüm
+
+Her gün aynı ayakkabıyı giymek yerine iki çift arasında dönüşümlü git. Ayakkabının ömrü uzar, içi de kurumaya vakit bulur.
+
+### Çorap
+
+Dikişi az, nefes alan pamuklu ya da karışımlı çorap seç. Çok kalın çorap kalıbı daraltır.
+
+Ayakkabıyı akşamüzeri, ayakların biraz genişlemişken dene ve birkaç dakika yürü. Parmakların sıkışmıyor, topuğun çıkmıyor, taban sert gelmiyorsa iyi bir başlangıç.
 
 Babet ve Sneaker kategorilerimizde günlük rahatlığa uygun modelleri bulabilirsin.
 
@@ -404,31 +412,39 @@ Babet ve Sneaker kategorilerimizde günlük rahatlığa uygun modelleri bulabili
 - **Meta açıklama:** Yazlık ve kışlık ayakkabı arasında malzeme, taban, astar ve renk farkları. Mevsime göre doğru seçim için kapsamlı rehber.
 - **Link:** Tüm kategoriler
 
-Her mevsim için ayrı bir ayakkabı dolabı kurmak zorunda değilsin, ama mevsimin ihtiyaçlarını bilmek doğru seçim yapmanı kolaylaştırır. İşte yazlık ve kışlık ayakkabıların temel farkları.
+Her mevsim için ayrı bir dolap kurmana gerek yok. Ama mevsimin neye ihtiyaç duyduğunu bilirsen seçmek kolaylaşıyor.
 
-### Malzeme ve nefes alma
-Yazın ayak daha çok terler. Hafif, nefes alan malzemeler ve açık yapılar öne çıkar. Sandalet, babet ve hafif sneaker yaz için yaygın seçimler. Kışın ise soğuğa ve neme karşı koruyan, daha kalın malzemeler kullanılır.
+### Malzeme
 
-### Taban ve kayma
-Kış aylarında yağmur, çamur ve ıslak zemin sık görülür. Kaymaz, desenli ve biraz daha kalın taban kışlık ayakkabıda önemli. Yazlık ayakkabıda hafiflik ve esneklik öne çıkar, ama kayganlık yine dikkat edilmesi gereken bir nokta.
+Yazın ayak daha çok terler. Hafif, nefes alan malzemeler ve açık yapılar öne çıkar. Sandalet, babet ve hafif sneaker yaz için yaygın. Kışın soğuğa ve neme karşı daha kalın malzemeler kullanılıyor.
+
+### Taban
+
+Kışın yağmur, çamur ve ıslak zemin sık karşılaşılan şeyler. Kaymaz, desenli ve biraz daha kalın taban kışlıkta önemli. Yazlıkta hafiflik ve esneklik öne çıkıyor, ama kayganlığa orada da dikkat etmek gerekiyor.
 
 ### Astar
-Kışlık ayakkabılarda astar daha sıcak tutar. Yazlıklarda ise ince ve nefes alan astar tercih edilir. Astar malzemesi ürün açıklamasında yazılı olmalı.
 
-### Kapalılık ve boy
-Yazın açık ve düşük kesim modeller rahat eder. Kışın bilekten yüksek kesim ve kapalı yapı ayağı korur. Bot bu yüzden kışın en pratik seçeneklerden biri.
+Kışlık ayakkabıda astar daha sıcak tutar. Yazlıkta ince ve nefes alan astar tercih edilir. Astarın malzemesi ürün açıklamasında yazmalı.
+
+### Kesim
+
+Yazın açık ve düşük kesim modeller rahat. Kışın bilekten yüksek, kapalı yapı ayağı korur. Bot bu yüzden kışın en pratik seçeneklerden.
 
 ### Renk
-Yazın açık tonlar (bej, beyaz, pastel) ve canlı renkler iyi durur. Kışın siyah, kahve, lacivert gibi koyu tonlar hem kombinde hem de bakımda daha pratik. Kış çamuru ve tuzu açık renkleri hızla kirletir.
+
+Yazın bej, beyaz ve pastel gibi açık tonlar iyi durur. Kışın siyah, kahve ve lacivert hem kombinde hem bakımda daha rahat. Kış çamuru ve yollardaki tuz açık renkleri hızla kirletir.
 
 ### Geçiş mevsimleri
-İlkbahar ve sonbaharda deri babet, loafer ve sneaker çok yönlü kalır. Hava yağmurlu ise kapalı ve kaymaz tabanlı modeller güvenli seçim olur.
 
-### Bütçeni akıllıca kullan
-Her mevsim için tam bir koleksiyon yerine şu çekirdekle başlayabilirsin: bir siyah loafer, bir babet, bir sneaker, bir sandalet ve bir bot. Bu beş çift çoğu günü kapatır.
+İlkbahar ve sonbaharda deri babet, loafer ve sneaker çok yönlü kalır. Hava yağmurluysa kapalı ve kaymaz tabanlı modeller daha güvenli.
+
+### Çekirdek liste
+
+Her mevsim için tam bir koleksiyon yerine şu beş çiftle başlayabilirsin: siyah bir loafer, bir babet, bir sneaker, bir sandalet ve bir bot. Bu beş çift çoğu günü kapatıyor.
 
 ### Saklama
-Mevsim bitince ayakkabıları temizle, kuru ve serin yerde kutusunda sakla. İçlerine kağıt koymak şeklini korumaya yardım eder. Plastik poşet kullanma, nem tutar.
+
+Mevsim bitince ayakkabıları temizle ve kutusunda, kuru ve serin bir yerde sakla. İçine kağıt koyarsan şeklini korur. Plastik poşet kullanma, nem tutar.
 
 Kategorilerimizden mevsime uygun modellere bakabilirsin.
 
@@ -440,31 +456,37 @@ Kategorilerimizden mevsime uygun modellere bakabilirsin.
 - **Meta açıklama:** İlk kadın loafer'ını seçerken renk, kalıp, taban, malzeme ve detay önerileri. Her kombine uyan loafer nasıl bulunur?
 - **Link:** Loafer kategorisi
 
-Loafer, gardıropta sessiz ama çok iş gören bir ayakkabı. Bağcık yok, topuk alçak, görünüm düzgün. İlk loafer'ını alırken bakman gereken beş nokta şunlar.
+Loaferın bağcığı yok, topuğu alçak ve görünümü düzgün. İlk çiftini alırken beş şeye bak.
 
-### 1. Rengi: siyah veya koyu kahve ile başla
-İlk loafer için en güvenli seçim siyah veya koyu kahve. Kumaş pantolon, jean, etek ve elbiseyle uyum sağlar, kiri de az gösterir. Bordo, lacivert veya açık renkler ikinci çift için güzel olur.
+### Renk
 
-### 2. Burun yapısı
-Yuvarlak burun rahat ve gündelik görünür. Hafif sivri burun ayağı uzun gösterir, daha şık durur. Çok dar sivri burunlar uzun süre giyildiğinde yorabilir. Parmaklarının rahat durduğundan emin ol.
+İlk loafer için en güvenli seçim siyah ya da koyu kahve. Kumaş pantolon, jean, etek ve elbiseyle uyar, kiri de az gösterir. Bordo, lacivert ve açık renkler ikinci çifte kalsın.
 
-### 3. Taban kalınlığı
-İnce, düz tabanlı loafer klasik ve zarif görünür. Biraz daha kalın ve esnek tabanlı modeller uzun yürüyüşlerde rahat eder. İlk loafer'ında günlük kullanım için orta kalınlıkta bir taban iyi bir denge sağlar.
+### Burun
 
-### 4. Malzeme
-Deri loafer zamanla ayağına uyar, düzenli bakımla uzun yıllar kullanılır. Suni deri daha uygun fiyatlı, bakımı kolay, ama zamanla şeklini daha az uyarlar. Hangisi olduğunu ürün sayfasında kontrol et.
+Yuvarlak burun rahat ve gündelik görünür. Hafif sivri burun ayağı uzun gösterir ve daha şık durur. Çok dar sivri burunlar uzun süre giyildiğinde yorabilir. Parmaklarının rahat durduğundan emin ol.
 
-### 5. Detaylar
-Sade, detaysız model en çok kombine uyan. Toka, zincir veya püskül gibi detaylar karakter katar, ama daha az kombinle uyumlu olabilir. İlk loafer için sade, ikincisi için detaylı seçmek mantıklı.
+### Taban
+
+İnce ve düz tabanlı loafer klasik ve zarif durur. Biraz daha kalın ve esnek tabanlı modeller uzun yürüyüşte rahat eder. Günlük kullanım için orta kalınlıkta bir taban iyi bir denge.
+
+### Malzeme
+
+Deri loafer zamanla ayağa uyar ve düzenli bakımla uzun yıllar gider. Suni deri daha uygun fiyatlı ve bakımı kolay, ama şeklini daha az alır. Hangisi olduğunu ürün sayfasında kontrol et.
+
+### Detay
+
+Detaysız, sade model en çok kombine uyar. Toka, zincir ya da püskül karakter katar ama daha az kombinle uyumlu olabilir. İlk çifte sadeyi, ikinciye detaylıyı almak mantıklı.
 
 ### Numara ve kalıp
-Loafer'ın topuğunun yerinde durması çok önemli, çünkü bağı yok. Topuk çıkıyorsa numarayı küçült veya içine ince bir taban pedi koy. Parmakların sıkışıyorsa bir numara büyük ya da daha geniş kalıp dene. Numara tablosunu ve ölçü rehberimizi kullanabilirsin.
+
+Loaferın bağı olmadığı için topuğunun yerinde durması çok önemli. Topuk çıkıyorsa küçük numara ya da içine ince bir taban pedi dene. Parmakların sıkışıyorsa bir numara büyük ya da daha geniş kalıp bak. Numara tablosunu ve ölçü rehberimizi kullanabilirsin.
 
 ### Bakım
-Deri loafer'ı her kullanımdan sonra bezle sil, ayda bir krem sür. Islanırsa kağıt tıkıp oda sıcaklığında kurut. Suni deri loafer'ı nemli bezle silmek yeterli.
 
-### Nasıl kombinlenir?
-Kumaş pantolon ve gömlek, düz paça jean ve tişört, midi etek ve ince çorap, blazer ceket ve çizgili pantolon veya diz boyu elbise. İlk loafer'ın bunların hepsiyle iyi gider.
+Deri loaferı her kullanımdan sonra bezle sil, ayda bir krem sür. Islanırsa içine kağıt tıkıp oda sıcaklığında kurut. Suni deri loaferı nemli bezle silmek yeterli.
+
+Kumaş pantolon ve gömlek, düz paça jean ve tişört, midi etek ve ince çorap, blazer ve çizgili pantolon, diz boyu elbise: ilk loaferın bunların hepsiyle gider.
 
 Loafer modellerimizi Loafer kategorisinde bulabilirsin.
 
@@ -478,34 +500,23 @@ Loafer modellerimizi Loafer kategorisinde bulabilirsin.
 - **Meta açıklama:** Ayakkabıda nem ve kokuyu önlemenin yolları: dönüşümlü kullanım, havalandırma, doğru çorap ve saklama. Pratik bakım rehberi.
 - **Link:** Babet, Bot
 
-Ayakkabı kokusu çoğu zaman bir "temizlik" meselesi değil, bir "nem" meselesidir. Ayak gün içinde ter üretir, bu nem ayakkabının içine dolar ve kurumazsa koku yapar. Çözüm genelde basit alışkanlıklarda.
+Ayakkabı kokusu çoğu zaman temizlikle değil nemle ilgili. Ayak gün içinde ter üretir, bu nem ayakkabının içine dolar ve kurumazsa koku yapar. Çözüm genelde küçük alışkanlıklarda.
 
-### 1. Her gün aynı ayakkabıyı giyme
-En etkili yöntem bu. Bir ayakkabının tamamen kuruması 24 saat sürebilir. İki çifti dönüşümlü giyersen her biri dinlenme şansı bulur. Bu aynı zamanda ayakkabının ömrünü de uzatır.
+Her gün aynı çifti giyme. Bir ayakkabının tamamen kuruması 24 saati bulabilir. İki çifti dönüşümlü giyersen her biri dinlenir, ömürleri de uzar.
 
-### 2. Çıkarınca havalandır
-Eve gelince ayakkabıyı rafa atma. Bağcıkları, bantları aç, dili dışarı çek, içini hava alsın. Hemen kapalı bir dolaba koymak nemi içeride tutar.
+Eve gelince ayakkabıyı rafa atma. Bağcıkları ya da bantları aç, dili dışarı çek, içi hava alsın. Hemen kapalı bir dolaba koymak nemi içeride tutar.
 
-### 3. Nefes alan çorap giy
-Pamuklu veya nem tutmayan karışımlı çoraplar teri uzaklaştırır. Sentetik ince çoraplar nem biriktirebilir. Gün içinde çok terliyorsan yedek çorap bulundur.
+Nefes alan çorap giy. Pamuklu ya da nem tutmayan karışımlı çoraplar teri uzaklaştırır, ince sentetik çoraplar nem biriktirebilir. Çok terliyorsan yanında yedek çorap bulundur.
 
-### 4. Ayakkabının içini kurut
-Kurutma poşetleri, gazete veya kağıt kullanabilirsin. Kağıt nemi çeker, ertesi gün değiştir. Kalorifer, saç kurutma makinesi veya doğrudan güneş kullanma, deriyi ve yapıştırıcıları bozabilir.
+Ayakkabının içini kurut. Gazete ya da kağıt nemi çeker, ertesi gün değiştir. Kalorifer, saç kurutma makinesi ve doğrudan güneş deriyi ve yapıştırıcıları bozabilir.
 
-### 5. İç tabanları temizle
-Çıkarılabilir iç tabanlar varsa ara sıra çıkarıp havalandır ve silerek temizle. Koku çoğu zaman iç tabandan gelir.
+Çıkarılabilir iç tabanı arada çıkarıp havalandır ve sil. Koku çoğu zaman oradan geliyor.
 
-### 6. Ayakkabıyı doğru sakla
-Serin, kuru ve havalanan bir yerde sakla. Plastik poşet veya kapalı kutu nemi hapseder. Kumaş torba veya delikli kutu daha uygun.
+Saklarken serin, kuru ve havadar bir yer seç. Plastik poşet ya da kapalı kutu nemi hapseder. Kumaş torba ya da delikli kutu daha uygun.
 
-### 7. Ayakkabının içine doğal yardımcılar
-Kahve telvesi veya karbonat gibi ev yöntemleri bazı kişilerde işe yarar. Bunları kumaş torba içinde, doğrudan deriyle temas ettirmeden kullan. Bu yöntemlerin etkisi kişiden kişiye değişir.
+Kahve telvesi ve karbonat gibi ev yöntemleri bazı kişilerde işe yarıyor. Bunları kumaş torba içinde, deriyle doğrudan temas ettirmeden kullan. Etkisi kişiden kişiye değişiyor.
 
-### 8. Ne zaman yenilemek gerekir?
-Bakıma rağmen koku geçmiyorsa ve ayakkabının içi çok yıpranmışsa yenilemek daha sağlıklı olur.
-
-### Not
-Ayağında sürekli bir sorun varsa bir uzmana danışmak en doğrusu. Bu yazı sadece genel bakım ipuçlarıdır.
+Bakıma rağmen koku geçmiyorsa ve ayakkabının içi çok yıpranmışsa yenisini almak daha mantıklı.
 
 Babet ve Bot kategorilerimizde günlük kullanım için modeller var.
 
@@ -519,35 +530,43 @@ Babet ve Bot kategorilerimizde günlük kullanım için modeller var.
 - **Meta açıklama:** Birine ayakkabı hediye ederken numarayı nasıl öğrenirsin? Numara tahmini, değişim ve doğru model seçimi için ipuçları.
 - **Link:** Tüm kategoriler
 
-Ayakkabı hediye etmek güzel bir jest, ama en çok ters gidebilecek hediyelerden biri de. Numara yanlış olursa mutluluk hayal kırıklığına dönebilir. Bu yazıda doğru numarayı nasıl öğreneceğini ve riski nasıl azaltacağını anlatıyoruz.
+Ayakkabı hediye etmek güzel bir jest ama ters gitmesi de kolay. Numara yanlışsa sevinç hayal kırıklığına dönüyor. Riski azaltmanın birkaç yolu var.
 
-### 1. En kolay yol: mevcut ayakkabıya bak
-Hediye edeceğin kişinin evde giydiği ayakkabıların iç tarafına bak. Numara genelde dilin altında veya iç yan kısımda yazılıdır. Birkaç farklı ayakkabıya bakıp aynı numara olup olmadığını kontrol et. Markadan markaya yarım ya da bir numara fark olabilir.
+### Mevcut ayakkabıya bak
 
-### 2. Aynı tür ayakkabıya dikkat et
-Sneaker, topuklu ve bot aynı numarada farklı oturabilir. Hediye edeceğin modele en yakın ayakkabıyı baz al. Örneğin loafer alacaksan, kişinin loafer veya babetinin numarasına bak.
+En kolay yol, kişinin evde giydiği ayakkabıların içine bakmak. Numara genelde dilin altında ya da iç yan kısımda yazılıdır. Birkaç farklı ayakkabıya bakıp aynı numara çıkıp çıkmadığını kontrol et. Markadan markaya yarım ya da bir numara fark olabilir.
 
-### 3. Ayak uzunluğunu ölçmeyi dene
-Kişinin ayağını fark ettirmeden ölçmek zor olabilir. Bazen kağıda basılmış bir iz veya mevcut ayakkabının iç taban uzunluğu fikir verir. Bu uzunluğu numara tablosuyla karşılaştırabilirsin. Ölçüm rehberimizi de kullanabilirsin.
+### Aynı türe bak
 
-### 4. Sormak her zaman en iyisi
-Sürpriz bozulacak diye çekinme. Arkadaşına, ailesine veya ortak tanıdıklara sorabilirsin. Çoğu zaman doğru numarayı öğrenmenin en güvenilir yolu bu.
+Sneaker, topuklu ve bot aynı numarada farklı oturur. Hediye edeceğin modele en yakın ayakkabıyı baz al. Loafer alacaksan kişinin loafer ya da babetinin numarasına bak.
 
-### 5. Kalıp ve burun yapısı
-Sivri burunlu modeller dar hissettirebilir, yuvarlak burunlu modeller daha geniştir. Kişinin ayağı geniş veya dar ise bunu hesaba kat. Emin değilsen daha esnek yapılı modeller tercih et.
+### Ölçmeyi dene
 
-### 6. Değişim imkanını önceden öğren
-Hediye ayakkabıda en güvenli yol, değişim imkanı olan bir mağazadan almak. Numara uymazsa kişi kolayca değiştirebilsin. Alışveriş yapmadan önce değişim koşullarını oku.
+Ayağı fark ettirmeden ölçmek zor, ama mevcut bir ayakkabının iç taban uzunluğu fikir verir. Bu uzunluğu numara tablosuyla karşılaştırabilirsin. Ölçüm rehberimiz de işine yarar.
 
-### 7. Riski azaltmak için güvenli modeller
-Bağlı, ayarlanabilir veya esnek modeller (örneğin ayarlanabilir tokalı sandalet, esnek babet) numara farkını daha kolay kaldırır. Dar ve sivri burunlu topuklular en riskli olanlar.
+### Sor
 
-### 8. Kutuya not koy
-Hediyenin içine numarayı ve değişim bilgisini yazan küçük bir not bırakabilirsin. Böylece uymazsa kişi çekinmeden değiştirir.
+Sürpriz bozulacak diye çekinme. Arkadaşına, ailesine ya da ortak tanıdıklara sorabilirsin. Çoğu zaman en güvenilir yol bu.
 
-Comfortinos'ta numara konusunda emin olamazsan info@comfortinos.com adresine yazabilirsin.
+### Kalıp
 
-`[Ali kontrol]` Değişim ve iade koşulları kesinleşince 6. maddeyi gerçek bilgiyle güncelle.
+Sivri burunlu modeller dar, yuvarlak burunlular daha geniş hissettirir. Kişinin ayağı genişse ya da darsa bunu hesaba kat. Emin değilsen daha esnek yapılı modelleri seç.
+
+### Değişim
+
+Hediye ayakkabıda en güvenlisi değişim imkânı olan bir mağazadan almak. Numara uymazsa kişi kolayca değiştirebilir. Almadan önce değişim koşullarını oku.
+
+### Güvenli modeller
+
+Ayarlanabilir tokalı sandalet ve esnek babet gibi modeller numara farkını daha iyi tolere ediyor. Dar ve sivri burunlu topuklular en riskli olanlar.
+
+### Not
+
+Hediyenin içine numarayı ve değişim bilgisini yazan küçük bir not bırak. Uymazsa kişi çekinmeden değiştirir.
+
+Numara konusunda emin olamazsan info@comfortinos.com adresine yazabilirsin.
+
+`[Ali kontrol]` Değişim ve iade koşulları kesinleşince değişim maddesini gerçek bilgiyle güncelle.
 
 ---
 
@@ -557,38 +576,31 @@ Comfortinos'ta numara konusunda emin olamazsan info@comfortinos.com adresine yaz
 - **Meta açıklama:** Kadın ayakkabısında siyah, bej, kahve ve beyaz renklerin farkları. Gardırobuna ve yaşam tarzına uyan ilk rengi seçmek için rehber.
 - **Link:** Babet, Loafer
 
-Yeni bir ayakkabı alırken model kadar renk de önemli. Yanlış renk gardırobunda bir köşede kalır, doğru renk haftada birkaç kez giyilir. İşte dört temel rengin artıları ve eksileri.
+Yeni bir ayakkabıda model kadar renk de belirleyici. Yanlış renk dolapta bir köşede kalır, doğru renk haftada birkaç kez giyilir. Dört temel rengi yan yana koyalım.
 
 ### Siyah
-**Artıları:** Çoğu kıyafetle uyumlu. Kiri ve çizikleri daha az gösterir. Ofis, akşam ve günlük kullanımda rahatlıkla giyilir.
-**Eksileri:** Çok koyu ve ağır görünebilir, özellikle yazın. Gün içinde sıcakta daha çok ısınır.
-**Kime uygun?** İlk ayakkabıyı alacaklar, ofiste çalışanlar, az bakım isteyenler.
+
+Çoğu kıyafetle uyar, kiri ve çizikleri az gösterir. Ofiste, akşam ve günlük kullanımda rahat giyilir. Çok koyu ve ağır görünebilir, yazın sıcakta daha çok ısınır. İlk ayakkabıyı alacaklara, ofiste çalışanlara ve az bakım isteyenlere uygun.
 
 ### Bej ve ten rengi
-**Artıları:** Bacağı uzun gösterir, yazın hafif ve ferah durur. Açık renkli kıyafetlerle çok güzel eşleşir.
-**Eksileri:** Kiri ve lekeyi daha çok gösterir, daha sık temizlik ister.
-**Kime uygun?** Yaz için ikinci çift arayanlar, açık ve pastel renk seven ve elbise giyenler.
+
+Bacağı uzun gösterir, yazın hafif ve ferah durur, açık renkli kıyafetlerle çok güzel eşleşir. Kiri ve lekeyi daha çok gösterir, bu yüzden daha sık temizlik ister. Yaz için ikinci çift arayanlara, pastel renk sevenlere ve elbise giyenlere uygun.
 
 ### Kahve
-**Artıları:** Sıcak, sade ve doğal görünür. Jean, toprak tonları, lacivert ve krem ile çok iyi gider. Siyahtan biraz daha yumuşak bir seçenek.
-**Eksileri:** Siyah ve lacivert ile her zaman uyum sağlamayabilir. Tonu (açık, koyu) kıyafetlere göre seçmek gerekir.
-**Kime uygun?** Sonbahar ve kış tonlarını sevenler, siyah yerine alternatif arayanlar.
+
+Sıcak, sade ve doğal görünür. Jean, toprak tonları, lacivert ve kremle çok iyi gider. Siyahtan biraz daha yumuşak bir seçenek. Siyah ve lacivertle her zaman uyum sağlamayabilir, tonu kıyafete göre seçmek gerekir. Sonbahar ve kış tonlarını sevenlere, siyaha alternatif arayanlara uygun.
 
 ### Beyaz
-**Artıları:** Taze, sportif ve modern görünür. Yaz kıyafetleriyle çok güzel durur.
-**Eksileri:** Çabuk kirlenir. Bakımı en zor renk.
-**Kime uygun?** Sneaker sevenler ve temizliğe zaman ayırabilenler.
 
-### Gardırobuna bakarak seç
-Elindeki kıyafetlerin çoğu hangi renkte? Çoğu koyu ise bej veya kahve aralara renk katar. Çoğu açık veya pastel ise siyah ve kahve zemin sağlar. Gardırobunda en çok giydiğin üç kombine ayakkabı rengini düşün.
+Taze, sportif ve modern görünür, yaz kıyafetleriyle çok güzel durur. Çabuk kirlenir ve bakımı en zor renk. Sneaker sevenlere ve temizliğe zaman ayırabilenlere uygun.
 
-### Mevsim
-Yazın bej ve açık tonlar, kışın siyah ve kahve daha pratik. Ama bunlar kural değil. Sadece kir ve bakım ihtiyacını etkiler.
+### Gardırobuna bak
 
-### Öneri sıralaması
-1. İlk çift: siyah (loafer veya babet).
-2. İkinci çift: bej veya kahve.
-3. Üçüncü çift: beyaz sneaker veya renkli bir model.
+Kıyafetlerinin çoğu hangi renkte? Çoğu koyuysa bej ya da kahve renk katar. Çoğu açık ya da pastelse siyah ve kahve zemin sağlar. En çok giydiğin üç kombini düşün ve ayakkabı rengini onlara göre seç.
+
+Yazın bej ve açık tonlar, kışın siyah ve kahve daha pratik. Bu bir kural olmaktan çok kir ve bakım meselesi.
+
+Sıralama önerim: ilk çift siyah loafer ya da babet, ikinci çift bej ya da kahve, üçüncü çift beyaz sneaker ya da renkli bir model.
 
 Babet ve Loafer kategorilerimizde farklı renk seçeneklerine bakabilirsin.
 
@@ -600,38 +612,47 @@ Babet ve Loafer kategorilerimizde farklı renk seçeneklerine bakabilirsin.
 - **Meta açıklama:** İnternetten ayakkabı alırken numara, kalıp, malzeme, fotoğraf, yorum ve iade koşullarına bakmak için 8 adımlı kontrol listesi.
 - **Link:** Tüm kategoriler
 
-Ayakkabıyı denemeden almak ilk bakışta riskli görünür. Ama doğru bilgiye bakarsan online alışveriş de güvenli olabilir. İşte alışverişten önce kontrol etmen gereken sekiz adım.
+Ayakkabıyı denemeden almak ilk bakışta riskli görünüyor. Ama doğru bilgilere bakarsan online alışveriş de güvenli olabilir. Sekiz şeyi kontrol et.
 
-### 1. Ayak uzunluğunu ölç
-Bir kağıt, kalem ve cetvelle ayağının santim cinsinden uzunluğunu ölç. Bu rakamı numara tablosuyla karşılaştır. Markadan markaya farklar olabilir, ama ölçü sana sağlam bir başlangıç noktası verir.
+### Ayak uzunluğu
 
-### 2. Kalıp bilgisine bak
-Ayakkabının dar, normal veya geniş kalıp olduğu yazıyor mu? Bu bilgi numaradan bile daha belirleyici olabilir. Yazmıyorsa mağazaya sor.
+Kağıt, kalem ve cetvelle ayağının uzunluğunu santimetre olarak ölç, sonra numara tablosuyla karşılaştır. Markadan markaya fark çıkabilir ama ölçü sana sağlam bir başlangıç verir.
 
-### 3. Malzemeyi oku
-Dış malzeme hakiki deri mi, suni deri mi, kumaş mı? Astar ve iç taban neyden yapılmış? Bu bilgiler hem rahatlığı hem bakımı belirler. Ürün sayfasında net yazmıyorsa şüphe et.
+### Kalıp
 
-### 4. Fotoğraflara dikkatle bak
-Birden çok açıdan çekilmiş, yakından ve net fotoğraflar güven verir. Tabanın ve iç kısmın görüntüsü varsa daha da iyi. Fotoğraf tek ve bulanıksa dikkatli ol.
+Ayakkabının dar, normal ya da geniş kalıp olduğu yazıyor mu? Bu bilgi bazen numaradan bile belirleyici. Yazmıyorsa mağazaya sor.
 
-### 5. Taban ve topuk bilgisine bak
-Topuk yüksekliği santim olarak yazılı olmalı. Taban malzemesi ve kaymazlığı hakkında bilgi varsa fark yaratır. Yazmıyorsa mağazaya sor.
+### Malzeme
 
-### 6. Yorumları oku
-Özellikle numara ve kalıp hakkındaki yorumlar çok işe yarar. "Bir numara büyük alın" veya "kalıbı normal" gibi notlar karar vermeni kolaylaştırır. Yorumların gerçek müşterilerden geldiğinden emin ol.
+Dış malzeme hakiki deri mi, suni deri mi, kumaş mı? Astar ve iç taban neyden? Bunlar hem rahatlığı hem bakımı belirliyor. Ürün sayfası net yazmıyorsa şüphelen.
 
-### 7. İade ve değişim koşullarını öğren
-Kaç gün içinde iade edebilirsin? Kargo ücreti kimde? Ayakkabı kutusu ve etiketi saklanmalı mı? Bunları satın almadan önce öğren.
+### Fotoğraflar
 
-### 8. İletişim kanallarına bak
-Mağazanın iletişim bilgileri net mi? Soru sorduğunda cevap veriyorlar mı? Bu, sorun çıkarsa nasıl yardım alacağını gösterir.
+Birkaç açıdan çekilmiş, yakın ve net fotoğraflar güven verir. Tabanın ve iç kısmın görüntüsü varsa daha iyi. Tek ve bulanık bir fotoğrafa güvenme.
 
-### Eline geçince
-Ayakkabıyı önce evde, temiz bir zeminde dene. Dışarıda giymeden önce yürü, parmaklarının yer olup olmadığına ve topuğun yerinde durup durmadığına bak. Uymuyorsa koşulları kontrol edip hemen değiştir.
+### Taban ve topuk
 
-Comfortinos'ta her ürün sayfasında bu bilgileri net vermeyi hedefliyoruz. Aklına takılan olursa info@comfortinos.com adresine yazabilirsin.
+Topuk yüksekliği santim olarak yazılmalı. Taban malzemesi ve kaymazlığı hakkında bilgi varsa bu çok işine yarar. Yoksa mağazaya sor.
 
-`[Ali kontrol]` İade, değişim ve kargo cümlelerini gerçek koşullarla güncelle.
+### Yorumlar
+
+Numara ve kalıp yorumları en çok işe yarayanlar. "Bir numara büyük alın" ya da "kalıbı normal" gibi notlar kararı kolaylaştırıyor. Yorumların gerçek müşterilerden geldiğinden emin ol.
+
+### İade ve değişim
+
+Kaç gün içinde iade edebilirsin? Kargo ücretini kim ödüyor? Kutu ve etiket saklanmalı mı? Satın almadan önce öğren.
+
+### İletişim
+
+Mağazanın iletişim bilgileri net mi? Soru sorduğunda cevap veriyorlar mı? Sorun çıkarsa nasıl yardım alacağını bu gösterir.
+
+Ayakkabı eline geçince önce evde, temiz bir zeminde dene. Yürü, parmaklarına yer olup olmadığına ve topuğunun yerinde durup durmadığına bak. Uymuyorsa koşulları kontrol edip hemen değiştir.
+
+Her ürün sayfasında bu bilgileri net vermeyi hedefliyoruz. Aklına takılan olursa info@comfortinos.com adresine yazabilirsin.
+
+`[Ali kontrol]` İade, değişim ve kargo cümlelerini gerçek koşullarla güncelle. "Her ürün sayfasında net veriyoruz" cümlesini ancak doğruysa bırak.
+
+---
 
 ## 19. Sneaker ile 5 gündelik kombin
 
