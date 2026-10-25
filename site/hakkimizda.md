@@ -6,7 +6,7 @@ Ayakkabıyla 25 yıldır uğraşıyorum. Önce üretimle başladım. Kalıbını
 
 Ürünleri İzmir'deki üreticilerin modelleri arasından seçiyorum. Seçimi eşimle birlikte yapıyorum. O modadan anlıyor ve bir kadın gözüyle bakıyor. Ben de 25 yıllık üretici gözüyle dikişe, tabana, kalıba ve malzemeye bakıyorum.
 
-Kadın ayakkabısında loafer, babet, sneaker, sandalet ve bot satıyorum. Her ürün sayfasında malzemeyi, kalıbı ve ölçüyü yazıyorum. Bir şeyden emin değilsen sor, cevabını ben ya da eşim veririz. `[Ali doldur: iletişim bilgisi.]`
+Kadın ayakkabısında loafer, babet, sneaker, sandalet ve bot satıyorum. Her ürün sayfasında malzemeyi, kalıbı ve ölçüyü yazıyorum. Bir şeyden emin değilsen sor, cevap veririm. `[Ali doldur: iletişim bilgisi.]`
 
 ---
 
@@ -14,4 +14,4 @@ Notlar (Ali için, sayfaya girmez):
 - "Kendimiz üretiyoruz", "özel tasarım" ya da "özel üretim" yazılmadı. Şu an hazır modellerden seçiliyor.
 - Kendi üretim kurulunca "artık kendi atölyemizde üretiyoruz" cümlesi eklenebilir.
 - Sağlıkla ilgili hiçbir iddia yazılmadı.
-- "Cevabını ben ya da eşim veririz" cümlesi gerçekten böyleyse kalsın. Müşteri sorularına başka biri bakıyorsa değiştir.
+- "Cevap veririm" cümlesi gerçekten böyleyse kalsın. Müşteri sorularına başka biri bakıyorsa değiştir.
