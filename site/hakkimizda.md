@@ -4,11 +4,9 @@ Ayakkabıyla 25 yıldır uğraşıyoruz. Önce üretimle başladık. Kalıbını
 
 Zor bir dönemden geçtik. İşler bozuldu ve fabrikayı kapatmak zorunda kaldık. Ama ayakkabıyı bırakmadık. Comfortinos'u bildiğimiz işi bu kez doğrudan sana ulaştırmak için kurduk.
 
-Ürünlerimizi İzmir'deki üreticilerin modelleri arasından seçiyoruz. 25 yıllık gözle bakıyoruz: dikişe, tabana, kalıba, malzemeye. `[Ali kontrol: "Kendi gözümüzden geçmeyen ayakkabıyı satmıyoruz" cümlesini ancak doğruysa ekle.]`
+Ürünleri İzmir'deki üreticilerin modelleri arasından seçiyoruz. Seçimi eşimle birlikte yapıyoruz. O modadan anlıyor ve bir kadın gözüyle bakıyor. Ben de 25 yıllık üretici gözüyle dikişe, tabana, kalıba ve malzemeye bakıyorum.
 
 Kadın ayakkabısında loafer, babet, sneaker, sandalet ve bot satıyoruz. Her ürün sayfasında malzemeyi, kalıbı ve ölçüyü yazıyoruz. Bir şeyden emin değilsen sor, kendimiz cevap veriyoruz. `[Ali doldur: iletişim bilgisi.]`
-
-Bu işi eşimle birlikte yürütüyoruz. `[Ali doldur: eşinin rolü.]`
 
 ---
 
